@@ -1,4 +1,4 @@
 # ADE II
 ## Discente: Juliane da Silva Santos
-Engenharia de Computação
-Repositório contendo trabalhos e projetos desenvolvindos ao longo do semestre para a disciplina de Algoritmos e Estrutura de Dados II.
+
+O repositório criado para a disciplina de Algoritmo e Estruturas de Dados 2 do curso de Engenharia de Computação da UFRN tem como objetivo organizar e facilitar o acesso aos materiais de estudo, exercícios e projetos desenvolvidos ao longo da disciplina.
