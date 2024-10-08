@@ -2,7 +2,7 @@
 #### Algoritmo e Estrutura de Dados II (DCA3702)
 #### Trabalho 1
 
-Pasta com os exercicios dos primeiros 4 capitulos do livro: THE ATLAS FOR THE ASPIRING NETWORK SCIENTIST. As respostas estão agrupadas no arquivo | [Exercicios.ipynb]() |
+Pasta com os exercicios dos primeiros 4 capitulos do livro: THE ATLAS FOR THE ASPIRING NETWORK SCIENTIST. As respostas estão agrupadas no arquivo [Exercicios.ipynb](https://github.com/julianessantos/AED-II/blob/main/Unidade%201/U1T1/Exercicios.ipynb). 
 
 #### 🎯 Objetivo
 - [x] Ler os quatro primeiros capítulos do livro-texto da disciplina, The Atlas For The Aspiring Network Scientist.
