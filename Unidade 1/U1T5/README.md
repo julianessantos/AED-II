@@ -32,7 +32,7 @@ G = ox.graph_from_address(
 fig, ax = ox.plot_graph(G, figsize=(10, 10), node_size=5, edge_color="y", edge_linewidth=0.2)
 ```
 
-![Rede viária escolhida](https://github.com/julianessantos)
+![Rede viária escolhida](https://github.com/julianessantos/AED-II/blob/main/Unidade1/U1T5/Imagens/RedeViaria.png)
 <<<<<<< HEAD:Unidade 1/U1T5/Trabalho5.md
 
 ### Requisito 1 - Métricas de centralidade
