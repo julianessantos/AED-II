@@ -4,7 +4,7 @@
 
 Usando como fonte os notebooks do [OSMnx](https://github.com/gboeing/osmnx) e a documentação da biblioteca, o quarto projeto tem como objetivo criar um exemplo que use de alguma forma a rede, ou parte dela, referente a cidade de Natal-RN. Além de criar a rede, o trabalho propoem elaborar perguntas cujas as respostas podem ser respondidas com as métricas estudadas durante as aulas, tais como Cycles, Average Shortest Path Length, Diameter of Network, Shortest Path Length, Connected Components, Giant Connected Components, number connected components, BFS, DFS, SCC, WCC, Clustering Coefficient.
 
-O quarto trabalho foi realizado de maneira individual. Além dos codigo é possivel observar uma breve explicação do trabalho no [video](URL) salvo na plataforma Loom.
+O quarto trabalho foi realizado de maneira individual. Além dos codigo é possivel observar uma breve explicação do trabalho no [video](https://www.loom.com/share/cfb3e9b8d77042dca5ee6056974f5dcc?sid=352c1ed0-0ac6-4c80-bb82-be742c16a719) salvo na plataforma Loom.
 
 #### 🎯 Objetivos
 - [x] Baixar a rede viária de Felipe Camarão
