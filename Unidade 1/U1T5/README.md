@@ -4,7 +4,7 @@
 
 Usando como fonte os notebooks do [OSMnx](https://github.com/gboeing/osmnx) e a documentação da biblioteca, o quinto projeto tem como objetivo avaliar a mobilidade no entorno da UFRN, em Natal-RN, com o intuito de analisar os melhores locais para a implementação de dock-station(S) de compartilhamento de bicicletas no enterno da universidade.
 
-O projeto final foi realizado de maneira individual. Além dos codigo é possivel observar uma breve explicação do trabalho no [video (https://www.loom.com/share/65226a7974b34bdaa5b53db2ade94c15?sid=fc75173f-ed7b-4660-8860-17c211dd0dee) salvo na plataforma Loom.
+O projeto final foi realizado de maneira individual. Além dos codigo é possivel observar uma breve explicação do trabalho no [video](https://www.loom.com/share/65226a7974b34bdaa5b53db2ade94c15?sid=fc75173f-ed7b-4660-8860-17c211dd0dee) salvo na plataforma Loom.
 
 #### 🎯 Objetivos
 - [x] Baixar a rede viária da UFRN
