@@ -33,6 +33,7 @@ fig, ax = ox.plot_graph(G, figsize=(10, 10), node_size=5, edge_color="y", edge_l
 ```
 
 ![Rede viária escolhida](https://github.com/julianessantos)
+<<<<<<< HEAD:Unidade 1/U1T5/Trabalho5.md
 
 ### Requisito 1 - Métricas de centralidade
 #### Centralidade de Grau
@@ -68,3 +69,5 @@ No grafo da rede os nós com tons mais claros (como amarelo ou verde claro) repr
 ### Requisito 3 - Analisando a Matriz de Correlação das Métricas de Centralidade
 
 ### Requisito 4 - Quem é o core/shell da rede?
+=======
+>>>>>>> 6a1177316d435deeae2b006e7770c64e6be4fe8c:Unidade 1/U1T5/README.md
