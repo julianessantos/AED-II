@@ -71,9 +71,6 @@ data = np.random.randint(0, N, size)
     for value in data:  
         tree.add(value)
 ```
-
-![Rede viária escolhida](https://github.com/julianessantos/AED-II/blob/main/Unidade%201/U1T5/Imagens/RedeViaria.png)
-
 ### Resultados
 Para um melhor entendimento foi realizado uma implemetação com três valores de N diferente, N = 1000, N = 10000 e N = 100000.
 
@@ -87,13 +84,13 @@ Para um melhor entendimento foi realizado uma implemetação com três valores d
 - Vermelho (Solver Kth Largest): O tempo médio de execução do algoritmo Solver Kth Largest. Ele cresce linearmente à medida que o tamanho do vetor aumenta. As barras de erro indicam a variabilidade nos tempos entre as execuções.
 
 ##### Para N = 1000
-<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%201/U1T5/Imagens/CentralidadeDeGrau.png" alt="N = 1000" width="600" height="700"/>
+<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%202/Imagens/1000.png" alt="N = 1000" width="600" height="700"/>
 
 ##### Para N = 10000
-<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%201/U1T5/Imagens/CentralidadeDeGrau.png" alt="N = 10000" width="600" height="700"/>
+<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%202/Imagens/10000.png" alt="N = 10000" width="600" height="700"/>
 
 ##### Para N = 100000
-<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%201/U1T5/Imagens/CentralidadeDeGrau.png" alt="N = 100000" width="600" height="700"/>
+<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%202/Imagens/100000.png" alt="N = 100000" width="600" height="700"/>
 
 #### Segundo Gráfico (Desempenho do Solver Closest)
 ##### Eixos:
@@ -105,10 +102,10 @@ Para um melhor entendimento foi realizado uma implemetação com três valores d
 - Curva Suave: O tempo de execução aumenta ligeiramente nos primeiros tamanhos de vetor, mas rapidamente se estabiliza em torno de um valor muito baixo.
 
 ##### Para N = 1000
-<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%201/U1T5/Imagens/CentralidadeDeGrau.png" alt="N = 1000" width="600" height="700"/>
+<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%202/Imagens/10002.png" alt="N = 1000" width="600" height="700"/>
 
 ##### Para N = 10000
-<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%201/U1T5/Imagens/CentralidadeDeGrau.png" alt="N = 10000" width="600" height="700"/>
+<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%202/Imagens/100002.png" alt="N = 10000" width="600" height="700"/>
 
 ##### Para N = 100000
-<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%201/U1T5/Imagens/CentralidadeDeGrau.png" alt="N = 100000" width="600" height="700"/>
+<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%202/Imagens/1000002.png" alt="N = 100000" width="600" height="700"/>
