@@ -7,7 +7,7 @@ Avaliar o desempenho de dois algoritmos fornecidos (solver_closest.ipynb e solve
 
 Usando como fonte os código disponibilizados durante a [semana 9](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_09) e aulas teoricas, o segundo projeto da segunda unidade tem como objetivo avaliar o desempenho de dois algoritmos fornecidos (solver_closest.ipynb e solver_kth_largest.ipynb) considerando diversas entradas aleatórias e reproduzíveis, variando o tamanho do vetor de entrada até um valor N grande.
 
-O projeto foi realizado de maneira individual. Além dos código é possível observar uma breve explicação do trabalho no [video](https://www.loom.com/share/65226a7974b34bdaa5b53db2ade94c15?sid=fc75173f-ed7b-4660-8860-17c211dd0dee) salvo na plataforma Loom.
+O projeto foi realizado de maneira individual. Além dos código é possível observar uma breve explicação do trabalho no [video](https://youtu.be/tAl2AqhDHSM) salvo no youtube.
 
 #### 🎯 Objetivos
 - [x] Avaliar o desempenho de dois algoritmos fornecidos (solver_closest.ipynb e solver_kth_largest.ipynb) 
