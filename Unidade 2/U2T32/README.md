@@ -48,10 +48,27 @@ jupyter notebook
 ```
 
 ## Resultados e Conclusão
+O algoritmo de Dijkstra é amplamente usado para encontrar o caminho mais curto em um grafo. Ele sempre escolhe o nó com o menor custo acumulado.
+No projeto, estamos usando duas implementações diferentes:
+- A implementação pronta do NetworkX, que usa otimizadores subjacentes
+- Uma implementação personalizada baseada em Min Heap, que nos dá mais controle e flexibilidade
+
 Os resultados das avaliações são documentados e comparados visualmente nos mapas gerados pelo **OSMnx**. 
-A solução também inclui a geração da **MST (Minimum Spanning Tree)** para um conjunto de pontos de interesse.
 
-Mais detalhes podem ser encontrados nos notebooks e na documentação do projeto.
+A figura a seguir apresenta o resultado de um dos 10 pares selecionados, Ponta Negra → Shopping Midway Mall, onde o caminho em vermelho é a representação da implementação do min-heap. Além dessa visulização, temos a apresentação dos tempos de execução para o cálculo do caminho mais curto com NetworkX e Min Heap, permitindo uma comparação de eficiência.
 
----
-**Autores:** Seu Nome | Contato | [GitHub](https://github.com/seu_usuario)
+<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%202/Imagens/100000.png" alt="Ponta Negra → Shopping Midway Mall" width="1000" height="600"/>
+
+Calculando caminho entre 505055020 e 502752741
+NetworkX Dijkstra: 0.0494 segundos
+Min Heap Dijkstra: 0.0338 segundos
+
+Percebemos que nesse caso o algoritimo com menor tempo foi o Min Heap. Em outros casos, temos o NetworkX como a melhor forma de implementação.
+
+Já o algoritmo de Kruskal é eficiente para encontrar a MST ao classificar as arestas pelo peso e adicionar as menores, desde que não formem ciclos. Onde uma MST é uma subárvore que conecta todos os nós do grafo com o menor custo total, sem formar ciclos. É amplamente utilizada em problemas de design de redes, como distribuição de energia e transporte."
+Algoritmo de Kruskal:
+
+A solução inclui a geração da **MST (Minimum Spanning Tree)** para um conjunto de estações de trem. Onde é apresentendo na seguinte figura o menor caminho gerado por essa arvore ligando os pontos em analise.
+
+<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%202/Imagens/100000.png" alt="Ponta Negra → Shopping Midway Mall" width="1000" height="600"/>
+
