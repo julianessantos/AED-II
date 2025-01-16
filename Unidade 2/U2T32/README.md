@@ -57,7 +57,7 @@ Os resultados das avaliações são documentados e comparados visualmente nos ma
 
 A figura a seguir apresenta o resultado de um dos 10 pares selecionados, Ponta Negra → Shopping Midway Mall, onde o caminho em vermelho é a representação da implementação do min-heap. Além dessa visulização, temos a apresentação dos tempos de execução para o cálculo do caminho mais curto com NetworkX e Min Heap, permitindo uma comparação de eficiência.
 
-<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%202/Imagens/100000.png" alt="Ponta Negra → Shopping Midway Mall" width="1000" height="600"/>
+<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%202/U2T32/figures/baixados.png" alt="Ponta Negra → Shopping Midway Mall" width="1000" height="600"/>
 
 Calculando caminho entre 505055020 e 502752741
 NetworkX Dijkstra: 0.0494 segundos
@@ -70,5 +70,5 @@ Algoritmo de Kruskal:
 
 A solução inclui a geração da **MST (Minimum Spanning Tree)** para um conjunto de estações de trem. Onde é apresentendo na seguinte figura o menor caminho gerado por essa arvore ligando os pontos em analise.
 
-<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%202/Imagens/100000.png" alt="Ponta Negra → Shopping Midway Mall" width="1000" height="600"/>
+<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%202/U2T32/figures/baixados%20(1).png" alt="Ponta Negra → Shopping Midway Mall" width="1000" height="600"/>
 
