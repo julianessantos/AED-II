@@ -15,18 +15,8 @@ A visualização dos resultados é feita utilizando a biblioteca **OSMnx**, que 
 - Visualizar os resultados no **OSMnx** para uma melhor compreensão das diferenças entre as abordagens.
 
 ### Requisito #2
-- Organizar este repositório no **GitHub**, incluindo:
-  - Códigos
-  - Figuras e visualizações geradas
-  - Explicações sobre a solução adotada
-  - Arquivo `README.md` (este documento)
-- Criar um **vídeo explicativo (até 5 minutos)** demonstrando a solução e os resultados obtidos.
-- Disponibilizar o link do vídeo no repositório.
-
-### Requisito #3
 - A partir dos pontos de interesse escolhidos, calcular a **Árvore Geradora Mínima (MST - Minimum Spanning Tree)**.
 - Utilizar o notebook `kruskal_natal.ipynb` como referência.
-- Como **PoIs (Points of Interest)**, utilizar as **estações de trem de Natal-RN**.
 
 ## Estrutura do Repositório
 ```
