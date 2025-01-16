@@ -34,7 +34,6 @@ A visualização dos resultados é feita utilizando a biblioteca **OSMnx**, que 
 |-- dijkstra_min_heap.ipynb   # Implementação do algoritmo de Dijkstra com Min Heap
 |-- networkx_dijkstra.ipynb   # Uso do algoritmo de Dijkstra com NetworkX
 |-- kruskal_natal.ipynb       # Cálculo da MST para pontos de interesse
-|-- data/                     # Dados utilizados no projeto (se houver)
 |-- figures/                  # Visualizações geradas
 |-- README.md                 # Este documento
 |-- video_link.txt            # Link para o vídeo explicativo
