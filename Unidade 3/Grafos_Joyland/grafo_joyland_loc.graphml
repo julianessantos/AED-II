@@ -1,0 +1,603 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="shoplaw">
+  <data key="d0">LOC</data>
+</node>
+<node id="heaven’s bay">
+  <data key="d0">LOC</data>
+</node>
+<node id="joyland">
+  <data key="d0">LOC</data>
+</node>
+<node id="praia heaven">
+  <data key="d0">LOC</data>
+</node>
+<node id="carolina do norte">
+  <data key="d0">LOC</data>
+</node>
+<node id="padaria">
+  <data key="d0">LOC</data>
+</node>
+<node id="gaivotas esperançosas">
+  <data key="d0">LOC</data>
+</node>
+<node id="portsmouth">
+  <data key="d0">LOC</data>
+</node>
+<node id="new hampshire">
+  <data key="d0">LOC</data>
+</node>
+<node id="south berwick">
+  <data key="d0">LOC</data>
+</node>
+<node id="maine">
+  <data key="d0">LOC</data>
+</node>
+<node id="boston">
+  <data key="d0">LOC</data>
+</node>
+<node id="parque joyland">
+  <data key="d0">LOC</data>
+</node>
+<node id="claire">
+  <data key="d0">LOC</data>
+</node>
+<node id="wilmington">
+  <data key="d0">LOC</data>
+</node>
+<node id="carolina spin">
+  <data key="d0">LOC</data>
+</node>
+<node id="lane">
+  <data key="d0">LOC</data>
+</node>
+<node id="disney">
+  <data key="d0">LOC</data>
+</node>
+<node id="joyland avenue">
+  <data key="d0">LOC</data>
+</node>
+<node id="hollywood">
+  <data key="d0">LOC</data>
+</node>
+<node id="folha">
+  <data key="d0">LOC</data>
+</node>
+<node id="nova inglaterra">
+  <data key="d0">LOC</data>
+</node>
+<node id="brooklyn">
+  <data key="d0">LOC</data>
+</node>
+<node id="saltos baixos">
+  <data key="d0">LOC</data>
+</node>
+<node id="verrão">
+  <data key="d0">LOC</data>
+</node>
+<node id="terra">
+  <data key="d0">LOC</data>
+</node>
+<node id="grande tristeza">
+  <data key="d0">LOC</data>
+</node>
+<node id="oklahoma">
+  <data key="d0">LOC</data>
+</node>
+<node id="arkansas">
+  <data key="d0">LOC</data>
+</node>
+<node id="estados unidos">
+  <data key="d0">LOC</data>
+</node>
+<node id="main street">
+  <data key="d0">LOC</data>
+</node>
+<node id="praia">
+  <data key="d0">LOC</data>
+</node>
+<node id="boa sorte">
+  <data key="d0">LOC</data>
+</node>
+<node id="bandejão">
+  <data key="d0">LOC</data>
+</node>
+<node id="ackerley">
+  <data key="d0">LOC</data>
+</node>
+<node id="brad">
+  <data key="d0">LOC</data>
+</node>
+<node id="palácio de versalhes">
+  <data key="d0">LOC</data>
+</node>
+<node id="devin">
+  <data key="d0">LOC</data>
+</node>
+<node id="nova york">
+  <data key="d0">LOC</data>
+</node>
+<node id="florence">
+  <data key="d0">LOC</data>
+</node>
+<node id="carolina do sul">
+  <data key="d0">LOC</data>
+</node>
+<node id="lobster">
+  <data key="d0">LOC</data>
+</node>
+<node id="imaginei">
+  <data key="d0">LOC</data>
+</node>
+<node id="furtos">
+  <data key="d0">LOC</data>
+</node>
+<node id="sand dollar">
+  <data key="d0">LOC</data>
+</node>
+<node id="charleston">
+  <data key="d0">LOC</data>
+</node>
+<node id="georgia">
+  <data key="d0">LOC</data>
+</node>
+<node id="carolinas">
+  <data key="d0">LOC</data>
+</node>
+<node id="perguntei">
+  <data key="d0">LOC</data>
+</node>
+<node id="nadine">
+  <data key="d0">LOC</data>
+</node>
+<node id="massachusetts">
+  <data key="d0">LOC</data>
+</node>
+<node id="wendy keegan">
+  <data key="d0">LOC</data>
+</node>
+<node id="unh">
+  <data key="d0">LOC</data>
+</node>
+<node id="escada do porão">
+  <data key="d0">LOC</data>
+</node>
+<node id="agradeci">
+  <data key="d0">LOC</data>
+</node>
+<node id="universidade bard">
+  <data key="d0">LOC</data>
+</node>
+<node id="atlântico">
+  <data key="d0">LOC</data>
+</node>
+<node id="shoplaw sorriu">
+  <data key="d0">LOC</data>
+</node>
+<node id="bebemos">
+  <data key="d0">LOC</data>
+</node>
+<node id="srta">
+  <data key="d0">LOC</data>
+</node>
+<node id="praia juntos">
+  <data key="d0">LOC</data>
+</node>
+<node id="colóquio">
+  <data key="d0">LOC</data>
+</node>
+<node id="gary">
+  <data key="d0">LOC</data>
+</node>
+<node id="flórida">
+  <data key="d0">LOC</data>
+</node>
+<node id="cãobertura">
+  <data key="d0">LOC</data>
+</node>
+<node id="oregon">
+  <data key="d0">LOC</data>
+</node>
+<node id="lago feliz">
+  <data key="d0">LOC</data>
+</node>
+<node id="superdevagar">
+  <data key="d0">LOC</data>
+</node>
+<node id="bom garoto">
+  <data key="d0">LOC</data>
+</node>
+<node id="dottie lassen">
+  <data key="d0">LOC</data>
+</node>
+<node id="camarim">
+  <data key="d0">LOC</data>
+</node>
+<node id="arara">
+  <data key="d0">LOC</data>
+</node>
+<node id="st">
+  <data key="d0">LOC</data>
+</node>
+<node id="howwwie">
+  <data key="d0">LOC</data>
+</node>
+<node id="howdy house">
+  <data key="d0">LOC</data>
+</node>
+<node id="odeio">
+  <data key="d0">LOC</data>
+</node>
+<node id="orlando">
+  <data key="d0">LOC</data>
+</node>
+<node id="westchester">
+  <data key="d0">LOC</data>
+</node>
+<node id="dartmouth">
+  <data key="d0">LOC</data>
+</node>
+<node id="canadá">
+  <data key="d0">LOC</data>
+</node>
+<node id="taiwan">
+  <data key="d0">LOC</data>
+</node>
+<node id="cambraia">
+  <data key="d0">LOC</data>
+</node>
+<node id="vendy">
+  <data key="d0">LOC</data>
+</node>
+<node id="rapazinho">
+  <data key="d0">LOC</data>
+</node>
+<node id="minha sorte">
+  <data key="d0">LOC</data>
+</node>
+<node id="hallie">
+  <data key="d0">LOC</data>
+</node>
+<node id="farei">
+  <data key="d0">LOC</data>
+</node>
+<node id="avenida central">
+  <data key="d0">LOC</data>
+</node>
+<node id="tina ackerley">
+  <data key="d0">LOC</data>
+</node>
+<node id="sabe">
+  <data key="d0">LOC</data>
+</node>
+<node id="são tomé">
+  <data key="d0">LOC</data>
+</node>
+<node id="são tomé?">
+  <data key="d0">LOC</data>
+</node>
+<node id="brady">
+  <data key="d0">LOC</data>
+</node>
+<node id="carriiiiiim">
+  <data key="d0">LOC</data>
+</node>
+<node id="baaaaarra">
+  <data key="d0">LOC</data>
+</node>
+<node id="baaaaaarra">
+  <data key="d0">LOC</data>
+</node>
+<node id="bobs">
+  <data key="d0">LOC</data>
+</node>
+<node id="dobrei">
+  <data key="d0">LOC</data>
+</node>
+<node id="europa">
+  <data key="d0">LOC</data>
+</node>
+<node id="camrim">
+  <data key="d0">LOC</data>
+</node>
+<node id="filadélfia">
+  <data key="d0">LOC</data>
+</node>
+<node id="redteam">
+  <data key="d0">LOC</data>
+</node>
+<node id="erin">
+  <data key="d0">LOC</data>
+</node>
+<node id="rio acima">
+  <data key="d0">LOC</data>
+</node>
+<node id="cleveland">
+  <data key="d0">LOC</data>
+</node>
+<node id="west">
+  <data key="d0">LOC</data>
+</node>
+<node id="lakefront stadium">
+  <data key="d0">LOC</data>
+</node>
+<node id="lumberton">
+  <data key="d0">LOC</data>
+</node>
+<node id="jacksonville">
+  <data key="d0">LOC</data>
+</node>
+<node id="espertiiiiin">
+  <data key="d0">LOC</data>
+</node>
+<node id="turtle">
+  <data key="d0">LOC</data>
+</node>
+<node id="jant">
+  <data key="d0">LOC</data>
+</node>
+<node id="cof-cof-cof">
+  <data key="d0">LOC</data>
+</node>
+<node id="betty">
+  <data key="d0">LOC</data>
+</node>
+<node id="porta de trás">
+  <data key="d0">LOC</data>
+</node>
+<node id="vila wiggle-waggle">
+  <data key="d0">LOC</data>
+</node>
+<node id="naomi">
+  <data key="d0">LOC</data>
+</node>
+<node id="sentido">
+  <data key="d0">LOC</data>
+</node>
+<node id="atlanta">
+  <data key="d0">LOC</data>
+</node>
+<node id="dev">
+  <data key="d0">LOC</data>
+</node>
+<node id="nova jersey">
+  <data key="d0">LOC</data>
+</node>
+<node id="durham">
+  <data key="d0">LOC</data>
+</node>
+<node id="garganta dele">
+  <data key="d0">LOC</data>
+</node>
+<node id="edwin">
+  <data key="d0">LOC</data>
+</node>
+<node id="corinne">
+  <data key="d0">LOC</data>
+</node>
+<node id="frangalhos">
+  <data key="d0">LOC</data>
+</node>
+<node id="respire fundo">
+  <data key="d0">LOC</data>
+</node>
+<node id="vou">
+  <data key="d0">LOC</data>
+</node>
+<node id="bagel">
+  <data key="d0">LOC</data>
+</node>
+<node id="michigan grande">
+  <data key="d0">LOC</data>
+</node>
+<node id="michigan">
+  <data key="d0">LOC</data>
+</node>
+<node id="riviera dos matutos">
+  <data key="d0">LOC</data>
+</node>
+<node id="geórgia">
+  <data key="d0">LOC</data>
+</node>
+<node id="pântano okefenokee">
+  <data key="d0">LOC</data>
+</node>
+<node id="waycross">
+  <data key="d0">LOC</data>
+</node>
+<node id="negra">
+  <data key="d0">LOC</data>
+</node>
+<node id="rio santee">
+  <data key="d0">LOC</data>
+</node>
+<node id="maxton">
+  <data key="d0">LOC</data>
+</node>
+<node id="garganta cortada">
+  <data key="d0">LOC</data>
+</node>
+<node id="blue ridge">
+  <data key="d0">LOC</data>
+</node>
+<node id="estados unidos de bizarrices">
+  <data key="d0">LOC</data>
+</node>
+<node id="espeluncas">
+  <data key="d0">LOC</data>
+</node>
+<node id="bonbonnière">
+  <data key="d0">LOC</data>
+</node>
+<node id="a cruz">
+  <data key="d0">LOC</data>
+</node>
+<node id="dixie">
+  <data key="d0">LOC</data>
+</node>
+<node id="murmurei">
+  <data key="d0">LOC</data>
+</node>
+<node id="pensilvânia">
+  <data key="d0">LOC</data>
+</node>
+<node id="richmond">
+  <data key="d0">LOC</data>
+</node>
+<node id="baltimore">
+  <data key="d0">LOC</data>
+</node>
+<node id="castelo do príncipe encantado">
+  <data key="d0">LOC</data>
+</node>
+<node id="besteira">
+  <data key="d0">LOC</data>
+</node>
+<node id="gondola glide">
+  <data key="d0">LOC</data>
+</node>
+<node id="camp perry">
+  <data key="d0">LOC</data>
+</node>
+<node id="ohio">
+  <data key="d0">LOC</data>
+</node>
+<node id="olhei para trás">
+  <data key="d0">LOC</data>
+</node>
+<node id="touché">
+  <data key="d0">LOC</data>
+</node>
+<node id="linha de jesus">
+  <data key="d0">LOC</data>
+</node>
+<node id="savannah">
+  <data key="d0">LOC</data>
+</node>
+<node id="chicago">
+  <data key="d0">LOC</data>
+</node>
+<node id="lindo">
+  <data key="d0">LOC</data>
+</node>
+<node id="casa da sra. shoplaw">
+  <data key="d0">LOC</data>
+</node>
+<node id="alegre">
+  <data key="d0">LOC</data>
+</node>
+<node id="bom">
+  <data key="d0">LOC</data>
+</node>
+<node id="beach row">
+  <data key="d0">LOC</data>
+</node>
+<node id="parish">
+  <data key="d0">LOC</data>
+</node>
+<node id="areia voava">
+  <data key="d0">LOC</data>
+</node>
+<node id="barriga bronzeada">
+  <data key="d0">LOC</data>
+</node>
+<node id="farol alto">
+  <data key="d0">LOC</data>
+</node>
+<node id="néon vermelho do guindaste">
+  <data key="d0">LOC</data>
+</node>
+<node id="velha carolina">
+  <data key="d0">LOC</data>
+</node>
+<node id="devinho">
+  <data key="d0">LOC</data>
+</node>
+<node id="néon vermelho">
+  <data key="d0">LOC</data>
+</node>
+<node id="daqui">
+  <data key="d0">LOC</data>
+</node>
+<node id="barra">
+  <data key="d0">LOC</data>
+</node>
+<node id="san diego">
+  <data key="d0">LOC</data>
+</node>
+<node id="greenwich village">
+  <data key="d0">LOC</data>
+</node>
+<node id="wilmington international">
+  <data key="d0">LOC</data>
+</node>
+<node id="andar de baixo">
+  <data key="d0">LOC</data>
+</node>
+<node id="caribe">
+  <data key="d0">LOC</data>
+</node>
+<node id="pare">
+  <data key="d0">LOC</data>
+</node>
+<node id="phoenix">
+  <data key="d0">LOC</data>
+</node>
+<node id="amanhã">
+  <data key="d0">LOC</data>
+</node>
+<edge source="shoplaw" target="heaven’s bay"/>
+<edge source="shoplaw" target="joyland"/>
+<edge source="shoplaw" target="hollywood"/>
+<edge source="shoplaw" target="charleston"/>
+<edge source="shoplaw" target="srta"/>
+<edge source="shoplaw" target="lumberton"/>
+<edge source="heaven’s bay" target="joyland"/>
+<edge source="heaven’s bay" target="boston"/>
+<edge source="heaven’s bay" target="carolina do norte"/>
+<edge source="heaven’s bay" target="wilmington"/>
+<edge source="heaven’s bay" target="casa da sra. shoplaw"/>
+<edge source="joyland" target="disney"/>
+<edge source="joyland" target="joyland avenue"/>
+<edge source="joyland" target="carolina spin"/>
+<edge source="joyland" target="maine"/>
+<edge source="joyland" target="wendy keegan"/>
+<edge source="joyland" target="durham"/>
+<edge source="joyland" target="new hampshire"/>
+<edge source="joyland" target="hollywood"/>
+<edge source="joyland" target="carolina do norte"/>
+<edge source="carolina do norte" target="boston"/>
+<edge source="carolina do norte" target="wilmington"/>
+<edge source="carolina do norte" target="nova inglaterra"/>
+<edge source="carolina do norte" target="maxton"/>
+<edge source="carolina do norte" target="nova jersey"/>
+<edge source="carolina do norte" target="florence"/>
+<edge source="portsmouth" target="new hampshire"/>
+<edge source="portsmouth" target="maine"/>
+<edge source="new hampshire" target="maine"/>
+<edge source="new hampshire" target="massachusetts"/>
+<edge source="new hampshire" target="wendy keegan"/>
+<edge source="new hampshire" target="durham"/>
+<edge source="south berwick" target="maine"/>
+<edge source="maine" target="massachusetts"/>
+<edge source="boston" target="wilmington"/>
+<edge source="disney" target="joyland avenue"/>
+<edge source="hollywood" target="universidade bard"/>
+<edge source="oklahoma" target="arkansas"/>
+<edge source="main street" target="praia"/>
+<edge source="nova york" target="nova jersey"/>
+<edge source="florence" target="carolina do sul"/>
+<edge source="florence" target="florence"/>
+<edge source="georgia" target="carolinas"/>
+<edge source="wendy keegan" target="durham"/>
+<edge source="colóquio" target="gary"/>
+<edge source="flórida" target="jacksonville"/>
+<edge source="flórida" target="geórgia"/>
+<edge source="redteam" target="redteam"/>
+<edge source="redteam" target="rio acima"/>
+<edge source="erin" target="erin"/>
+<edge source="rio acima" target="rio acima"/>
+<edge source="west" target="lakefront stadium"/>
+<edge source="richmond" target="baltimore"/>
+<edge source="camp perry" target="ohio"/>
+</graph></graphml>

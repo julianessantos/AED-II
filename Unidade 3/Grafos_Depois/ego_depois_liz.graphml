@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="regis thomas">
+  <data key="d0">PER</data>
+</node>
+<node id="john boehner">
+  <data key="d0">PER</data>
+</node>
+<node id="alexander hamilton">
+  <data key="d0">PER</data>
+</node>
+<node id="chet atkins">
+  <data key="d0">PER</data>
+</node>
+<node id="sprain brook">
+  <data key="d0">PER</data>
+</node>
+<node id="martin luther king">
+  <data key="d0">PER</data>
+</node>
+<node id="casa de marsden">
+  <data key="d0">PER</data>
+</node>
+<node id="elizabeth dutton">
+  <data key="d0">PER</data>
+</node>
+<node id="sr. marsden">
+  <data key="d0">PER</data>
+</node>
+<node id="hernandez">
+  <data key="d0">PER</data>
+</node>
+<node id="kenneth therriault">
+  <data key="d0">PER</data>
+</node>
+<node id="liz">
+  <data key="d0">PER</data>
+</node>
+<node id="sr. thomas">
+  <data key="d0">PER</data>
+</node>
+<edge source="regis thomas" target="liz"/>
+<edge source="john boehner" target="liz"/>
+<edge source="alexander hamilton" target="liz"/>
+<edge source="chet atkins" target="liz"/>
+<edge source="sprain brook" target="liz"/>
+<edge source="martin luther king" target="liz"/>
+<edge source="casa de marsden" target="liz"/>
+<edge source="elizabeth dutton" target="liz"/>
+<edge source="sr. marsden" target="liz"/>
+<edge source="hernandez" target="liz"/>
+<edge source="kenneth therriault" target="liz"/>
+<edge source="liz" target="liz"/>
+<edge source="liz" target="sr. thomas"/>
+<edge source="sr. thomas" target="sr. thomas"/>
+</graph></graphml>

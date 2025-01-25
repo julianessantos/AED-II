@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="devin">
+  <data key="d0">PER</data>
+</node>
+<node id="sr. jones">
+  <data key="d0">PER</data>
+</node>
+<node id="mike">
+  <data key="d0">PER</data>
+</node>
+<edge source="devin" target="sr. jones"/>
+<edge source="devin" target="mike"/>
+<edge source="sr. jones" target="mike"/>
+<edge source="mike" target="mike"/>
+</graph></graphml>

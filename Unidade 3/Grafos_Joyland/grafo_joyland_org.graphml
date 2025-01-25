@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="opep">
+  <data key="d0">ORG</data>
+</node>
+<node id="ford">
+  <data key="d0">ORG</data>
+</node>
+<node id="disney">
+  <data key="d0">ORG</data>
+</node>
+<node id="beach boys">
+  <data key="d0">ORG</data>
+</node>
+<node id="volkswagen">
+  <data key="d0">ORG</data>
+</node>
+<node id="the new yorker">
+  <data key="d0">ORG</data>
+</node>
+<node id="pepsi">
+  <data key="d0">ORG</data>
+</node>
+<node id="unh">
+  <data key="d0">ORG</data>
+</node>
+<node id="srta">
+  <data key="d0">ORG</data>
+</node>
+<node id="filene’s">
+  <data key="d0">ORG</data>
+</node>
+<node id="the doors">
+  <data key="d0">ORG</data>
+</node>
+<node id="nadine">
+  <data key="d0">ORG</data>
+</node>
+<node id="nadine keegan">
+  <data key="d0">ORG</data>
+</node>
+<node id="beatles">
+  <data key="d0">ORG</data>
+</node>
+<node id="universidade de new hampshire">
+  <data key="d0">ORG</data>
+</node>
+<node id="claaaaro">
+  <data key="d0">ORG</data>
+</node>
+<node id="claaaro">
+  <data key="d0">ORG</data>
+</node>
+<node id="google">
+  <data key="d0">ORG</data>
+</node>
+<node id="moët &amp; chandon">
+  <data key="d0">ORG</data>
+</node>
+<node id="moon rocket">
+  <data key="d0">ORG</data>
+</node>
+<node id="who">
+  <data key="d0">ORG</data>
+</node>
+<node id="stones">
+  <data key="d0">ORG</data>
+</node>
+<node id="joyland avenue">
+  <data key="d0">ORG</data>
+</node>
+<node id="black dress">
+  <data key="d0">ORG</data>
+</node>
+<node id="allen">
+  <data key="d0">ORG</data>
+</node>
+<node id="joyland subterrâneo">
+  <data key="d0">ORG</data>
+</node>
+<node id="candy cane">
+  <data key="d0">ORG</data>
+</node>
+<node id="knott’s berry farm">
+  <data key="d0">ORG</data>
+</node>
+<node id="boston common">
+  <data key="d0">ORG</data>
+</node>
+<node id="joyland">
+  <data key="d0">ORG</data>
+</node>
+<node id="pop allen me">
+  <data key="d0">ORG</data>
+</node>
+<node id="heaven’s bay">
+  <data key="d0">ORG</data>
+</node>
+<node id="mysterio’s mirror mansion">
+  <data key="d0">ORG</data>
+</node>
+<node id="wally gordo">
+  <data key="d0">ORG</data>
+</node>
+<node id="howie">
+  <data key="d0">ORG</data>
+</node>
+<node id="mcdonald’s">
+  <data key="d0">ORG</data>
+</node>
+<node id="negócio do chapéu">
+  <data key="d0">ORG</data>
+</node>
+<node id="rutgers">
+  <data key="d0">ORG</data>
+</node>
+<node id="hasty hut">
+  <data key="d0">ORG</data>
+</node>
+<node id="joyland inc">
+  <data key="d0">ORG</data>
+</node>
+<node id="ivy league">
+  <data key="d0">ORG</data>
+</node>
+<node id="mike">
+  <data key="d0">ORG</data>
+</node>
+<node id="white sox">
+  <data key="d0">ORG</data>
+</node>
+<node id="halloween">
+  <data key="d0">ORG</data>
+</node>
+<node id="floyd">
+  <data key="d0">ORG</data>
+</node>
+<node id="mike?">
+  <data key="d0">ORG</data>
+</node>
+<node id="alston’s all-star carnival">
+  <data key="d0">ORG</data>
+</node>
+<node id="pink floyd">
+  <data key="d0">ORG</data>
+</node>
+<node id="dmd">
+  <data key="d0">ORG</data>
+</node>
+<node id="ross">
+  <data key="d0">ORG</data>
+</node>
+<node id="tv">
+  <data key="d0">ORG</data>
+</node>
+<node id="sam">
+  <data key="d0">ORG</data>
+</node>
+<node id="acm">
+  <data key="d0">ORG</data>
+</node>
+<node id="heaven’s bay community hospital">
+  <data key="d0">ORG</data>
+</node>
+<node id="royal american">
+  <data key="d0">ORG</data>
+</node>
+<node id="joy… land">
+  <data key="d0">ORG</data>
+</node>
+<node id="porta aberta">
+  <data key="d0">ORG</data>
+</node>
+<node id="mike ross">
+  <data key="d0">ORG</data>
+</node>
+<node id="hanratty’s">
+  <data key="d0">ORG</data>
+</node>
+<node id="freddy">
+  <data key="d0">ORG</data>
+</node>
+<node id="brooks brothers">
+  <data key="d0">ORG</data>
+</node>
+<node id="journal-herald de waycross">
+  <data key="d0">ORG</data>
+</node>
+<node id="southern star amusements">
+  <data key="d0">ORG</data>
+</node>
+<node id="southern star">
+  <data key="d0">ORG</data>
+</node>
+<node id="outdoor">
+  <data key="d0">ORG</data>
+</node>
+<node id="surfer joe’s">
+  <data key="d0">ORG</data>
+</node>
+<node id="rolling stones">
+  <data key="d0">ORG</data>
+</node>
+<node id="miami dolphins">
+  <data key="d0">ORG</data>
+</node>
+<node id="os beatles">
+  <data key="d0">ORG</data>
+</node>
+<node id="beach row">
+  <data key="d0">ORG</data>
+</node>
+<node id="banco southern trust">
+  <data key="d0">ORG</data>
+</node>
+<node id="ronco alto da sra. s.">
+  <data key="d0">ORG</data>
+</node>
+<node id="wellman">
+  <data key="d0">ORG</data>
+</node>
+<node id="portinha">
+  <data key="d0">ORG</data>
+</node>
+<node id="cnn">
+  <data key="d0">ORG</data>
+</node>
+<node id="mysterio’s">
+  <data key="d0">ORG</data>
+</node>
+<node id="new york post">
+  <data key="d0">ORG</data>
+</node>
+<node id="inside view">
+  <data key="d0">ORG</data>
+</node>
+<node id="inc">
+  <data key="d0">ORG</data>
+</node>
+<node id="fbi">
+  <data key="d0">ORG</data>
+</node>
+<node id="kroger’s">
+  <data key="d0">ORG</data>
+</node>
+<node id="portsmouth">
+  <data key="d0">ORG</data>
+</node>
+<node id="clarence clemons">
+  <data key="d0">ORG</data>
+</node>
+<edge source="ford" target="heaven’s bay"/>
+<edge source="disney" target="knott’s berry farm"/>
+<edge source="the doors" target="pink floyd"/>
+<edge source="who" target="stones"/>
+<edge source="joyland avenue" target="mike"/>
+<edge source="joyland subterrâneo" target="mike"/>
+<edge source="joyland" target="pop allen me"/>
+<edge source="mike" target="kroger’s"/>
+<edge source="southern star" target="outdoor"/>
+<edge source="southern star" target="wellman"/>
+<edge source="beach row" target="banco southern trust"/>
+<edge source="beach row" target="beach row"/>
+</graph></graphml>

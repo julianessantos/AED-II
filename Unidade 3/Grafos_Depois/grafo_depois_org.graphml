@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="peru">
+  <data key="d0">ORG</data>
+</node>
+<node id="lily">
+  <data key="d0">ORG</data>
+</node>
+<node id="agência literária conklin">
+  <data key="d0">ORG</data>
+</node>
+<node id="fundo mackenzie">
+  <data key="d0">ORG</data>
+</node>
+<node id="agência conklin">
+  <data key="d0">ORG</data>
+</node>
+<node id="liz">
+  <data key="d0">ORG</data>
+</node>
+<node id="the skies are fucking drear again">
+  <data key="d0">ORG</data>
+</node>
+<node id="sam">
+  <data key="d0">ORG</data>
+</node>
+<node id="ford">
+  <data key="d0">ORG</data>
+</node>
+<node id="banco de trás">
+  <data key="d0">ORG</data>
+</node>
+<node id="franklin delano roosevelt rapidinho">
+  <data key="d0">ORG</data>
+</node>
+<node id="mets">
+  <data key="d0">ORG</data>
+</node>
+<node id="new york mets">
+  <data key="d0">ORG</data>
+</node>
+<node id="new york times">
+  <data key="d0">ORG</data>
+</node>
+<node id="liz chegar">
+  <data key="d0">ORG</data>
+</node>
+<node id="walt disney">
+  <data key="d0">ORG</data>
+</node>
+<node id="times square">
+  <data key="d0">ORG</data>
+</node>
+<node id="black lives matter">
+  <data key="d0">ORG</data>
+</node>
+<node id="profa">
+  <data key="d0">ORG</data>
+</node>
+<node id="ny1">
+  <data key="d0">ORG</data>
+</node>
+<node id="yankees">
+  <data key="d0">ORG</data>
+</node>
+<node id="google">
+  <data key="d0">ORG</data>
+</node>
+<node id="city of angels">
+  <data key="d0">ORG</data>
+</node>
+<node id="frederick arms">
+  <data key="d0">ORG</data>
+</node>
+<node id="king kullen">
+  <data key="d0">ORG</data>
+</node>
+<node id="dica">
+  <data key="d0">ORG</data>
+</node>
+<node id="acm">
+  <data key="d0">ORG</data>
+</node>
+<node id="nyu">
+  <data key="d0">ORG</data>
+</node>
+<node id="sunday times book review">
+  <data key="d0">ORG</data>
+</node>
+<node id="guardian">
+  <data key="d0">ORG</data>
+</node>
+<node id="miami herald">
+  <data key="d0">ORG</data>
+</node>
+<node id="citi field">
+  <data key="d0">ORG</data>
+</node>
+<node id="espn">
+  <data key="d0">ORG</data>
+</node>
+<node id="dalton school">
+  <data key="d0">ORG</data>
+</node>
+<node id="friends seminary">
+  <data key="d0">ORG</data>
+</node>
+<node id="o.k, o.k">
+  <data key="d0">ORG</data>
+</node>
+<node id="antiga liz">
+  <data key="d0">ORG</data>
+</node>
+<node id="bear stearns">
+  <data key="d0">ORG</data>
+</node>
+<node id="danny">
+  <data key="d0">ORG</data>
+</node>
+<node id="country club">
+  <data key="d0">ORG</data>
+</node>
+<node id="renfield 125">
+  <data key="d0">ORG</data>
+</node>
+<node id="bear stearns?">
+  <data key="d0">ORG</data>
+</node>
+<node id="green hills country club">
+  <data key="d0">ORG</data>
+</node>
+<node id="departamento antidrogas">
+  <data key="d0">ORG</data>
+</node>
+<node id="oxy">
+  <data key="d0">ORG</data>
+</node>
+<node id="marsden">
+  <data key="d0">ORG</data>
+</node>
+<node id="porsche">
+  <data key="d0">ORG</data>
+</node>
+<node id="kia">
+  <data key="d0">ORG</data>
+</node>
+<node id="teddy?">
+  <data key="d0">ORG</data>
+</node>
+<node id="ups">
+  <data key="d0">ORG</data>
+</node>
+<node id="teddy">
+  <data key="d0">ORG</data>
+</node>
+<node id="john law">
+  <data key="d0">ORG</data>
+</node>
+<node id="santos">
+  <data key="d0">ORG</data>
+</node>
+<node id="mednow">
+  <data key="d0">ORG</data>
+</node>
+<node id="renfield stardust">
+  <data key="d0">ORG</data>
+</node>
+<node id="record herald">
+  <data key="d0">ORG</data>
+</node>
+<node id="lenox hill hospital">
+  <data key="d0">ORG</data>
+</node>
+<node id="psen1">
+  <data key="d0">ORG</data>
+</node>
+<edge source="liz" target="dica"/>
+<edge source="liz" target="liz"/>
+<edge source="dalton school" target="friends seminary"/>
+<edge source="marsden" target="porsche"/>
+</graph></graphml>

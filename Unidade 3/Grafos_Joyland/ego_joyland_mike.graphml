@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="sr. joyland">
+  <data key="d0">PER</data>
+</node>
+<node id="cordinha">
+  <data key="d0">PER</data>
+</node>
+<node id="madame fortuna">
+  <data key="d0">PER</data>
+</node>
+<node id="milo">
+  <data key="d0">PER</data>
+</node>
+<node id="joyland">
+  <data key="d0">PER</data>
+</node>
+<node id="eddie parks">
+  <data key="d0">PER</data>
+</node>
+<node id="fred">
+  <data key="d0">PER</data>
+</node>
+<node id="annie">
+  <data key="d0">PER</data>
+</node>
+<node id="sr. jones">
+  <data key="d0">PER</data>
+</node>
+<node id="beach row">
+  <data key="d0">PER</data>
+</node>
+<node id="cristo">
+  <data key="d0">PER</data>
+</node>
+<node id="devin">
+  <data key="d0">PER</data>
+</node>
+<node id="annie ross">
+  <data key="d0">PER</data>
+</node>
+<node id="lane">
+  <data key="d0">PER</data>
+</node>
+<node id="wendy keegan">
+  <data key="d0">PER</data>
+</node>
+<node id="linda gray">
+  <data key="d0">PER</data>
+</node>
+<node id="mike">
+  <data key="d0">PER</data>
+</node>
+<node id="lane hardy">
+  <data key="d0">PER</data>
+</node>
+<node id="jesus">
+  <data key="d0">PER</data>
+</node>
+<node id="milo latiu">
+  <data key="d0">PER</data>
+</node>
+<edge source="sr. joyland" target="mike"/>
+<edge source="cordinha" target="mike"/>
+<edge source="madame fortuna" target="mike"/>
+<edge source="madame fortuna" target="lane"/>
+<edge source="milo" target="mike"/>
+<edge source="milo" target="annie"/>
+<edge source="milo" target="jesus"/>
+<edge source="joyland" target="mike"/>
+<edge source="joyland" target="lane"/>
+<edge source="joyland" target="linda gray"/>
+<edge source="joyland" target="lane hardy"/>
+<edge source="joyland" target="annie"/>
+<edge source="joyland" target="eddie parks"/>
+<edge source="eddie parks" target="lane hardy"/>
+<edge source="eddie parks" target="mike"/>
+<edge source="fred" target="mike"/>
+<edge source="fred" target="annie"/>
+<edge source="fred" target="lane"/>
+<edge source="annie" target="mike"/>
+<edge source="annie" target="wendy keegan"/>
+<edge source="annie" target="annie"/>
+<edge source="annie" target="lane hardy"/>
+<edge source="sr. jones" target="devin"/>
+<edge source="sr. jones" target="mike"/>
+<edge source="beach row" target="mike"/>
+<edge source="cristo" target="mike"/>
+<edge source="devin" target="mike"/>
+<edge source="annie ross" target="mike"/>
+<edge source="lane" target="mike"/>
+<edge source="wendy keegan" target="mike"/>
+<edge source="linda gray" target="mike"/>
+<edge source="mike" target="jesus"/>
+<edge source="mike" target="milo latiu"/>
+<edge source="mike" target="mike"/>
+<edge source="mike" target="lane hardy"/>
+</graph></graphml>

@@ -1,0 +1,714 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="noel">
+  <data key="d0">PER</data>
+</node>
+<node id="jamie conklin">
+  <data key="d0">PER</data>
+</node>
+<node id="barney">
+  <data key="d0">PER</data>
+</node>
+<node id="moleque">
+  <data key="d0">PER</data>
+</node>
+<node id="jamie">
+  <data key="d0">PER</data>
+</node>
+<node id="sr. burkett">
+  <data key="d0">PER</data>
+</node>
+<node id="prof">
+  <data key="d0">PER</data>
+</node>
+<node id="burkett">
+  <data key="d0">PER</data>
+</node>
+<node id="sra. burkett">
+  <data key="d0">PER</data>
+</node>
+<node id="mona">
+  <data key="d0">PER</data>
+</node>
+<node id="peru verde">
+  <data key="d0">PER</data>
+</node>
+<node id="james">
+  <data key="d0">PER</data>
+</node>
+<node id="dr. allen">
+  <data key="d0">PER</data>
+</node>
+<node id="bingola">
+  <data key="d0">PER</data>
+</node>
+<node id="thia">
+  <data key="d0">PER</data>
+</node>
+<node id="bruce willis">
+  <data key="d0">PER</data>
+</node>
+<node id="thomas">
+  <data key="d0">PER</data>
+</node>
+<node id="dickens">
+  <data key="d0">PER</data>
+</node>
+<node id="mona burkett">
+  <data key="d0">PER</data>
+</node>
+<node id="tso">
+  <data key="d0">PER</data>
+</node>
+<node id="são longuinho">
+  <data key="d0">PER</data>
+</node>
+<node id="’s">
+  <data key="d0">PER</data>
+</node>
+<node id="marty">
+  <data key="d0">PER</data>
+</node>
+<node id="alzheimer">
+  <data key="d0">PER</data>
+</node>
+<node id="robert harrison">
+  <data key="d0">PER</data>
+</node>
+<node id="professora tate">
+  <data key="d0">PER</data>
+</node>
+<node id="anne staley">
+  <data key="d0">PER</data>
+</node>
+<node id="liz dutton">
+  <data key="d0">PER</data>
+</node>
+<node id="liz">
+  <data key="d0">PER</data>
+</node>
+<node id="regis thomas">
+  <data key="d0">PER</data>
+</node>
+<node id="james mackenzie">
+  <data key="d0">PER</data>
+</node>
+<node id="monty grisham">
+  <data key="d0">PER</data>
+</node>
+<node id="bernard madoff">
+  <data key="d0">PER</data>
+</node>
+<node id="bern">
+  <data key="d0">PER</data>
+</node>
+<node id="mackenzie">
+  <data key="d0">PER</data>
+</node>
+<node id="madison">
+  <data key="d0">PER</data>
+</node>
+<node id="thomas wolfe">
+  <data key="d0">PER</data>
+</node>
+<node id="angel">
+  <data key="d0">PER</data>
+</node>
+<node id="andrew wyeth">
+  <data key="d0">PER</data>
+</node>
+<node id="hilton de beverly hills">
+  <data key="d0">PER</data>
+</node>
+<node id="amiga liz">
+  <data key="d0">PER</data>
+</node>
+<node id="jane reynolds">
+  <data key="d0">PER</data>
+</node>
+<node id="bayonne">
+  <data key="d0">PER</data>
+</node>
+<node id="altinha">
+  <data key="d0">PER</data>
+</node>
+<node id="pierce">
+  <data key="d0">PER</data>
+</node>
+<node id="sr. hernandez">
+  <data key="d0">PER</data>
+</node>
+<node id="piscataway">
+  <data key="d0">PER</data>
+</node>
+<node id="sr. thomas">
+  <data key="d0">PER</data>
+</node>
+<node id="regis thomas me">
+  <data key="d0">PER</data>
+</node>
+<node id="george threadhill">
+  <data key="d0">PER</data>
+</node>
+<node id="martin betancourt">
+  <data key="d0">PER</data>
+</node>
+<node id="judith krantz">
+  <data key="d0">PER</data>
+</node>
+<node id="harold robbins">
+  <data key="d0">PER</data>
+</node>
+<node id="mary celeste">
+  <data key="d0">PER</data>
+</node>
+<node id="laura goodhugh">
+  <data key="d0">PER</data>
+</node>
+<node id="purity betancourt">
+  <data key="d0">PER</data>
+</node>
+<node id="bell">
+  <data key="d0">PER</data>
+</node>
+<node id="gostei">
+  <data key="d0">PER</data>
+</node>
+<node id="penny peitola">
+  <data key="d0">PER</data>
+</node>
+<node id="murmurou liz">
+  <data key="d0">PER</data>
+</node>
+<node id="elizabeth dutton">
+  <data key="d0">PER</data>
+</node>
+<node id="prateleirinha">
+  <data key="d0">PER</data>
+</node>
+<node id="francis">
+  <data key="d0">PER</data>
+</node>
+<node id="francis drake">
+  <data key="d0">PER</data>
+</node>
+<node id="davina">
+  <data key="d0">PER</data>
+</node>
+<node id="frank wilcox">
+  <data key="d0">PER</data>
+</node>
+<node id="frank">
+  <data key="d0">PER</data>
+</node>
+<node id="elvis">
+  <data key="d0">PER</data>
+</node>
+<node id="sandália de jesus">
+  <data key="d0">PER</data>
+</node>
+<node id="jimmy">
+  <data key="d0">PER</data>
+</node>
+<node id="roanoke">
+  <data key="d0">PER</data>
+</node>
+<node id="laura">
+  <data key="d0">PER</data>
+</node>
+<node id="aham">
+  <data key="d0">PER</data>
+</node>
+<node id="james conklin">
+  <data key="d0">PER</data>
+</node>
+<node id="george threadgill">
+  <data key="d0">PER</data>
+</node>
+<node id="freud">
+  <data key="d0">PER</data>
+</node>
+<node id="siobhan">
+  <data key="d0">PER</data>
+</node>
+<node id="macduff">
+  <data key="d0">PER</data>
+</node>
+<node id="john boehner">
+  <data key="d0">PER</data>
+</node>
+<node id="john brocha">
+  <data key="d0">PER</data>
+</node>
+<node id="pinto mole">
+  <data key="d0">PER</data>
+</node>
+<node id="nancy pelosi">
+  <data key="d0">PER</data>
+</node>
+<node id="martin luther king">
+  <data key="d0">PER</data>
+</node>
+<node id="zinfandel">
+  <data key="d0">PER</data>
+</node>
+<node id="barbara means">
+  <data key="d0">PER</data>
+</node>
+<node id="sue grafton">
+  <data key="d0">PER</data>
+</node>
+<node id="kirkus reviews">
+  <data key="d0">PER</data>
+</node>
+<node id="dwight garner">
+  <data key="d0">PER</data>
+</node>
+<node id="frankie ryder">
+  <data key="d0">PER</data>
+</node>
+<node id="scott abramowitz">
+  <data key="d0">PER</data>
+</node>
+<node id="lily rhinehart">
+  <data key="d0">PER</data>
+</node>
+<node id="duke ellington">
+  <data key="d0">PER</data>
+</node>
+<node id="herman melville">
+  <data key="d0">PER</data>
+</node>
+<node id="bartholomew “bat">
+  <data key="d0">PER</data>
+</node>
+<node id="uber">
+  <data key="d0">PER</data>
+</node>
+<node id="glug-glug-glug">
+  <data key="d0">PER</data>
+</node>
+<node id="o.k">
+  <data key="d0">PER</data>
+</node>
+<node id="marie o’malley">
+  <data key="d0">PER</data>
+</node>
+<node id="marie">
+  <data key="d0">PER</data>
+</node>
+<node id="scott">
+  <data key="d0">PER</data>
+</node>
+<node id="sprain brook">
+  <data key="d0">PER</data>
+</node>
+<node id="thumper">
+  <data key="d0">PER</data>
+</node>
+<node id="richard scalise">
+  <data key="d0">PER</data>
+</node>
+<node id="scalise">
+  <data key="d0">PER</data>
+</node>
+<node id="sam">
+  <data key="d0">PER</data>
+</node>
+<node id="ted bundy">
+  <data key="d0">PER</data>
+</node>
+<node id="kenneth alan therriault">
+  <data key="d0">PER</data>
+</node>
+<node id="alexander hamilton">
+  <data key="d0">PER</data>
+</node>
+<node id="kenneth therriault">
+  <data key="d0">PER</data>
+</node>
+<node id="sr. therriault">
+  <data key="d0">PER</data>
+</node>
+<node id="ken">
+  <data key="d0">PER</data>
+</node>
+<node id="frederick arms">
+  <data key="d0">PER</data>
+</node>
+<node id="batman">
+  <data key="d0">PER</data>
+</node>
+<node id="desver">
+  <data key="d0">PER</data>
+</node>
+<node id="colton">
+  <data key="d0">PER</data>
+</node>
+<node id="ken therriault">
+  <data key="d0">PER</data>
+</node>
+<node id="vi kenneth therriault">
+  <data key="d0">PER</data>
+</node>
+<node id="dutton">
+  <data key="d0">PER</data>
+</node>
+<node id="gordon bishop">
+  <data key="d0">PER</data>
+</node>
+<node id="bishop">
+  <data key="d0">PER</data>
+</node>
+<node id="liz me">
+  <data key="d0">PER</data>
+</node>
+<node id="barbara">
+  <data key="d0">PER</data>
+</node>
+<node id="lewis dodley">
+  <data key="d0">PER</data>
+</node>
+<node id="george metesky">
+  <data key="d0">PER</data>
+</node>
+<node id="metesky">
+  <data key="d0">PER</data>
+</node>
+<node id="consolidated edison">
+  <data key="d0">PER</data>
+</node>
+<node id="vi ken therriault">
+  <data key="d0">PER</data>
+</node>
+<node id="sr. thomas sobre roanoke">
+  <data key="d0">PER</data>
+</node>
+<node id="sr. laghari">
+  <data key="d0">PER</data>
+</node>
+<node id="peterson">
+  <data key="d0">PER</data>
+</node>
+<node id="mona lisa">
+  <data key="d0">PER</data>
+</node>
+<node id="yig">
+  <data key="d0">PER</data>
+</node>
+<node id="marty burkett">
+  <data key="d0">PER</data>
+</node>
+<node id="sr. burkett de prof">
+  <data key="d0">PER</data>
+</node>
+<node id="telefungo">
+  <data key="d0">PER</data>
+</node>
+<node id="burkett me">
+  <data key="d0">PER</data>
+</node>
+<node id="iphone">
+  <data key="d0">PER</data>
+</node>
+<node id="conde drácula">
+  <data key="d0">PER</data>
+</node>
+<node id="martin burkett">
+  <data key="d0">PER</data>
+</node>
+<node id="ken querido">
+  <data key="d0">PER</data>
+</node>
+<node id="jesus">
+  <data key="d0">PER</data>
+</node>
+<node id="beijo">
+  <data key="d0">PER</data>
+</node>
+<node id="sr. stoker">
+  <data key="d0">PER</data>
+</node>
+<node id="mr">
+  <data key="d0">PER</data>
+</node>
+<node id="met dash">
+  <data key="d0">PER</data>
+</node>
+<node id="dash">
+  <data key="d0">PER</data>
+</node>
+<node id="valeria gomez">
+  <data key="d0">PER</data>
+</node>
+<node id="pablo">
+  <data key="d0">PER</data>
+</node>
+<node id="therriault">
+  <data key="d0">PER</data>
+</node>
+<node id="lucy">
+  <data key="d0">PER</data>
+</node>
+<node id="sr. provenza">
+  <data key="d0">PER</data>
+</node>
+<node id="abelson">
+  <data key="d0">PER</data>
+</node>
+<node id="dandy">
+  <data key="d0">PER</data>
+</node>
+<node id="neosporin">
+  <data key="d0">PER</data>
+</node>
+<node id="holmes">
+  <data key="d0">PER</data>
+</node>
+<node id="jamie conklin?">
+  <data key="d0">PER</data>
+</node>
+<node id="prezado jamie">
+  <data key="d0">PER</data>
+</node>
+<node id="p.s">
+  <data key="d0">PER</data>
+</node>
+<node id="prezado prof">
+  <data key="d0">PER</data>
+</node>
+<node id="burkett de novo">
+  <data key="d0">PER</data>
+</node>
+<node id="david robertson">
+  <data key="d0">PER</data>
+</node>
+<node id="dave">
+  <data key="d0">PER</data>
+</node>
+<node id="linda">
+  <data key="d0">PER</data>
+</node>
+<node id="osprey">
+  <data key="d0">PER</data>
+</node>
+<node id="martin f. burkett">
+  <data key="d0">PER</data>
+</node>
+<node id="oi">
+  <data key="d0">PER</data>
+</node>
+<node id="richard scarlatti">
+  <data key="d0">PER</data>
+</node>
+<node id="roosevelt">
+  <data key="d0">PER</data>
+</node>
+<node id="mary lou stein">
+  <data key="d0">PER</data>
+</node>
+<node id="angelika">
+  <data key="d0">PER</data>
+</node>
+<node id="jesus hernandez">
+  <data key="d0">PER</data>
+</node>
+<node id="hernandez">
+  <data key="d0">PER</data>
+</node>
+<node id="jesus falou">
+  <data key="d0">PER</data>
+</node>
+<node id="carrinho matchbox comigo">
+  <data key="d0">PER</data>
+</node>
+<node id="purity">
+  <data key="d0">PER</data>
+</node>
+<node id="hannah royden">
+  <data key="d0">PER</data>
+</node>
+<node id="hannah">
+  <data key="d0">PER</data>
+</node>
+<node id="george intumescido">
+  <data key="d0">PER</data>
+</node>
+<node id="tappan zee">
+  <data key="d0">PER</data>
+</node>
+<node id="conde em drácula">
+  <data key="d0">PER</data>
+</node>
+<node id="stewart">
+  <data key="d0">PER</data>
+</node>
+<node id="watson">
+  <data key="d0">PER</data>
+</node>
+<node id="chet atkins">
+  <data key="d0">PER</data>
+</node>
+<node id="grato">
+  <data key="d0">PER</data>
+</node>
+<node id="bess">
+  <data key="d0">PER</data>
+</node>
+<node id="bessie">
+  <data key="d0">PER</data>
+</node>
+<node id="danny">
+  <data key="d0">PER</data>
+</node>
+<node id="jp morgan chase">
+  <data key="d0">PER</data>
+</node>
+<node id="danny miller">
+  <data key="d0">PER</data>
+</node>
+<node id="jason statham">
+  <data key="d0">PER</data>
+</node>
+<node id="donald marsden">
+  <data key="d0">PER</data>
+</node>
+<node id="sra. jones">
+  <data key="d0">PER</data>
+</node>
+<node id="casa de marsden">
+  <data key="d0">PER</data>
+</node>
+<node id="imaginei marsden">
+  <data key="d0">PER</data>
+</node>
+<node id="poughkeepsie">
+  <data key="d0">PER</data>
+</node>
+<node id="teddy">
+  <data key="d0">PER</data>
+</node>
+<node id="topamax">
+  <data key="d0">PER</data>
+</node>
+<node id="bram stoker">
+  <data key="d0">PER</data>
+</node>
+<node id="dinty moore">
+  <data key="d0">PER</data>
+</node>
+<node id="pvc">
+  <data key="d0">PER</data>
+</node>
+<node id="maria">
+  <data key="d0">PER</data>
+</node>
+<node id="grandão">
+  <data key="d0">PER</data>
+</node>
+<node id="acertei">
+  <data key="d0">PER</data>
+</node>
+<node id="pepperoni">
+  <data key="d0">PER</data>
+</node>
+<node id="assobie">
+  <data key="d0">PER</data>
+</node>
+<node id="donnie grandão">
+  <data key="d0">PER</data>
+</node>
+<node id="casa de">
+  <data key="d0">PER</data>
+</node>
+<node id="elizabeth">
+  <data key="d0">PER</data>
+</node>
+<node id="caroline">
+  <data key="d0">PER</data>
+</node>
+<node id="thia conklin">
+  <data key="d0">PER</data>
+</node>
+<node id="caroline me">
+  <data key="d0">PER</data>
+</node>
+<node id="sr. marsden">
+  <data key="d0">PER</data>
+</node>
+<node id="elizabeth smart">
+  <data key="d0">PER</data>
+</node>
+<node id="lyft">
+  <data key="d0">PER</data>
+</node>
+<node id="hudson">
+  <data key="d0">PER</data>
+</node>
+<node id="ackerman">
+  <data key="d0">PER</data>
+</node>
+<node id="gugu">
+  <data key="d0">PER</data>
+</node>
+<node id="james lee conklin">
+  <data key="d0">PER</data>
+</node>
+<edge source="noel" target="sr. burkett"/>
+<edge source="jamie" target="peru verde"/>
+<edge source="jamie" target="thomas wolfe"/>
+<edge source="jamie" target="angel"/>
+<edge source="jamie" target="oi"/>
+<edge source="jamie" target="liz dutton"/>
+<edge source="jamie" target="caroline"/>
+<edge source="sr. burkett" target="siobhan"/>
+<edge source="sr. burkett" target="macduff"/>
+<edge source="sr. burkett" target="prof"/>
+<edge source="burkett" target="peru verde"/>
+<edge source="peru verde" target="james"/>
+<edge source="peru verde" target="james mackenzie"/>
+<edge source="peru verde" target="mona burkett"/>
+<edge source="thomas" target="amiga liz"/>
+<edge source="thomas" target="dwight garner"/>
+<edge source="thomas" target="barbara means"/>
+<edge source="mona burkett" target="james mackenzie"/>
+<edge source="são longuinho" target="são longuinho"/>
+<edge source="liz dutton" target="marie"/>
+<edge source="liz" target="regis thomas"/>
+<edge source="liz" target="liz"/>
+<edge source="liz" target="sr. thomas"/>
+<edge source="liz" target="john boehner"/>
+<edge source="liz" target="martin luther king"/>
+<edge source="liz" target="sprain brook"/>
+<edge source="liz" target="alexander hamilton"/>
+<edge source="liz" target="kenneth therriault"/>
+<edge source="liz" target="hernandez"/>
+<edge source="liz" target="elizabeth dutton"/>
+<edge source="liz" target="sr. marsden"/>
+<edge source="liz" target="chet atkins"/>
+<edge source="liz" target="casa de marsden"/>
+<edge source="bernard madoff" target="bern"/>
+<edge source="thomas wolfe" target="angel"/>
+<edge source="sr. thomas" target="sr. thomas"/>
+<edge source="martin betancourt" target="laura goodhugh"/>
+<edge source="martin betancourt" target="purity betancourt"/>
+<edge source="judith krantz" target="harold robbins"/>
+<edge source="laura goodhugh" target="purity betancourt"/>
+<edge source="john brocha" target="pinto mole"/>
+<edge source="frankie ryder" target="scott abramowitz"/>
+<edge source="duke ellington" target="herman melville"/>
+<edge source="duke ellington" target="bartholomew “bat"/>
+<edge source="herman melville" target="bartholomew “bat"/>
+<edge source="kenneth therriault" target="bishop"/>
+<edge source="dutton" target="gordon bishop"/>
+<edge source="metesky" target="consolidated edison"/>
+<edge source="conde drácula" target="lucy"/>
+<edge source="martin burkett" target="p.s"/>
+<edge source="abelson" target="dandy"/>
+<edge source="holmes" target="watson"/>
+<edge source="dave" target="linda"/>
+<edge source="hannah" target="george intumescido"/>
+<edge source="bess" target="danny"/>
+<edge source="donald marsden" target="casa de"/>
+<edge source="assobie" target="assobie"/>
+</graph></graphml>

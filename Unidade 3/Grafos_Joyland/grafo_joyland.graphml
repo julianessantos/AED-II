@@ -1,0 +1,913 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="shoplaw"/>
+<node id="heaven’s bay"/>
+<node id="joyland"/>
+<node id="praia heaven"/>
+<node id="carolina do norte"/>
+<node id="padaria"/>
+<node id="betty"/>
+<node id="gaivotas esperançosas"/>
+<node id="jack russell terrier"/>
+<node id="opep"/>
+<node id="richard nixon"/>
+<node id="edward g. robinson"/>
+<node id="noel coward"/>
+<node id="devin jones"/>
+<node id="ford"/>
+<node id="wendy keegan"/>
+<node id="portsmouth"/>
+<node id="new hampshire"/>
+<node id="south berwick"/>
+<node id="maine"/>
+<node id="wendy"/>
+<node id="boston"/>
+<node id="carolina living"/>
+<node id="batatas caramba"/>
+<node id="parque joyland"/>
+<node id="renee st"/>
+<node id="claire"/>
+<node id="wilmington"/>
+<node id="fred dean"/>
+<node id="dean"/>
+<node id="carolina spin"/>
+<node id="lane"/>
+<node id="disney"/>
+<node id="bradley easterbrook"/>
+<node id="joyland avenue"/>
+<node id="freddy dean"/>
+<node id="fred"/>
+<node id="lane hardy"/>
+<node id="jonesy"/>
+<node id="johnny otis"/>
+<node id="big joe turner"/>
+<node id="brenda rafferty"/>
+<node id="hollywood"/>
+<node id="bren"/>
+<node id="folha"/>
+<node id="nova inglaterra"/>
+<node id="rudyard kipling"/>
+<node id="madame fortuna"/>
+<node id="brooklyn"/>
+<node id="saltos baixos"/>
+<node id="madame"/>
+<node id="rozzie"/>
+<node id="verrão"/>
+<node id="nímerro"/>
+<node id="terra"/>
+<node id="beach boys"/>
+<node id="grande tristeza"/>
+<node id="sr. dean"/>
+<node id="sr. jones"/>
+<node id="oklahoma"/>
+<node id="arkansas"/>
+<node id="volkswagen"/>
+<node id="bob"/>
+<node id="sr. easterbrook"/>
+<node id="estados unidos"/>
+<node id="freddy"/>
+<node id="the new yorker"/>
+<node id="rozzie gold"/>
+<node id="hardy"/>
+<node id="pepsi"/>
+<node id="main street"/>
+<node id="praia"/>
+<node id="boa sorte"/>
+<node id="rozola"/>
+<node id="charles dickens"/>
+<node id="grimm"/>
+<node id="bandejão"/>
+<node id="unh"/>
+<node id="srta"/>
+<node id="ackerley"/>
+<node id="justo"/>
+<node id="easterbrook"/>
+<node id="brad"/>
+<node id="beach row"/>
+<node id="imaginei"/>
+<node id="dickens"/>
+<node id="palácio de versalhes"/>
+<node id="devin"/>
+<node id="nova york"/>
+<node id="munster"/>
+<node id="linda gray"/>
+<node id="florence"/>
+<node id="carolina do sul"/>
+<node id="luna inn"/>
+<node id="lobster"/>
+<node id="robin hood"/>
+<node id="marilyn monroe"/>
+<node id="karen!"/>
+<node id="annie oakley"/>
+<node id="gray"/>
+<node id="filene’s"/>
+<node id="furtos"/>
+<node id="hã-hã"/>
+<node id="linda"/>
+<node id="raleigh"/>
+<node id="sand dollar"/>
+<node id="charleston"/>
+<node id="georgia"/>
+<node id="carolinas"/>
+<node id="jimi hendrix"/>
+<node id="the doors"/>
+<node id="perguntei"/>
+<node id="nadine"/>
+<node id="nadine keegan"/>
+<node id="beatles"/>
+<node id="john lennon"/>
+<node id="wendy jones"/>
+<node id="massachusetts"/>
+<node id="george b. nako"/>
+<node id="universidade de new hampshire"/>
+<node id="hamilton smith"/>
+<node id="elizabeth taylor"/>
+<node id="robert zimmerman"/>
+<node id="lyndon beans johnson"/>
+<node id="noel"/>
+<node id="claaaaro"/>
+<node id="claaaro"/>
+<node id="pippin"/>
+<node id="professor nako"/>
+<node id="século xxi"/>
+<node id="escada do porão"/>
+<node id="google"/>
+<node id="mike"/>
+<node id="annie ross"/>
+<node id="timothy jones"/>
+<node id="hackman"/>
+<node id="agradeci"/>
+<node id="tina ackerley"/>
+<node id="erin cook"/>
+<node id="tom kennedy"/>
+<node id="erin"/>
+<node id="universidade bard"/>
+<node id="atlântico"/>
+<node id="joyce carol oates"/>
+<node id="kennedy"/>
+<node id="ginger ale"/>
+<node id="moët &amp; chandon"/>
+<node id="sr. kennedy"/>
+<node id="shoplaw sorriu"/>
+<node id="bebemos"/>
+<node id="praia juntos"/>
+<node id="tom"/>
+<node id="annie"/>
+<node id="mike ross"/>
+<node id="vi rozzie gold"/>
+<node id="gary allen"/>
+<node id="colóquio"/>
+<node id="gary"/>
+<node id="ronnie houston"/>
+<node id="flórida"/>
+<node id="sr. allen"/>
+<node id="ronnie"/>
+<node id="cãobertura"/>
+<node id="pop allen"/>
+<node id="george preston"/>
+<node id="oregon"/>
+<node id="lago feliz"/>
+<node id="joyland subterrâneo"/>
+<node id="pinto"/>
+<node id="moon rocket"/>
+<node id="who"/>
+<node id="zep"/>
+<node id="stones"/>
+<node id="superdevagar"/>
+<node id="brad easterbrook"/>
+<node id="bom garoto"/>
+<node id="black dress"/>
+<node id="alfred hitchcock"/>
+<node id="dottie lassen"/>
+<node id="pelúcia"/>
+<node id="allen"/>
+<node id="camarim"/>
+<node id="tio sam"/>
+<node id="howies"/>
+<node id="arara"/>
+<node id="butch hadley"/>
+<node id="james bond"/>
+<node id="goldfinger"/>
+<node id="sr. bond!"/>
+<node id="bowser"/>
+<node id="howie"/>
+<node id="choo-choo wiggle"/>
+<node id="st"/>
+<node id="louis"/>
+<node id="al jolson"/>
+<node id="howwwie"/>
+<node id="candy cane"/>
+<node id="howdy house"/>
+<node id="hamelin"/>
+<node id="knott’s berry farm"/>
+<node id="odeio"/>
+<node id="orlando"/>
+<node id="westchester"/>
+<node id="william blake"/>
+<node id="boston common"/>
+<node id="wenny"/>
+<node id="rennie"/>
+<node id="ren"/>
+<node id="w. múzika"/>
+<node id="wennie"/>
+<node id="wendy keegan daquele verão"/>
+<node id="dartmouth"/>
+<node id="canadá"/>
+<node id="pop allen me"/>
+<node id="desemaranhei"/>
+<node id="jim morrison"/>
+<node id="ray manzarek"/>
+<node id="taiwan"/>
+<node id="mysterio’s mirror mansion"/>
+<node id="cambraia"/>
+<node id="wally gordo"/>
+<node id="vendy"/>
+<node id="sse massturba"/>
+<node id="rapazinho"/>
+<node id="rozzie me"/>
+<node id="minha sorte"/>
+<node id="don’t ya jes’ love it"/>
+<node id="daddy dewdrop"/>
+<node id="sr. devin jones"/>
+<node id="hallie"/>
+<node id="henry heimlich"/>
+<node id="heimlich"/>
+<node id="mcdonald’s"/>
+<node id="farei"/>
+<node id="campbell’s"/>
+<node id="avenida central"/>
+<node id="hallie stansfield"/>
+<node id="sabe"/>
+<node id="ikey heyman"/>
+<node id="negócio do chapéu"/>
+<node id="são tomé"/>
+<node id="são tomé?"/>
+<node id="dobie"/>
+<node id="thomas patrick kennedy"/>
+<node id="família stansfield"/>
+<node id="dean martin"/>
+<node id="rutgers"/>
+<node id="brady waterman"/>
+<node id="brady"/>
+<node id="john f. kennedy sorridente"/>
+<node id="elvis presley"/>
+<node id="elvis"/>
+<node id="erin suspirou"/>
+<node id="eddie parks"/>
+<node id="carriiiiiim"/>
+<node id="baaaaarra"/>
+<node id="baaaaaarra"/>
+<node id="billy ruggerio"/>
+<node id="laurie gray"/>
+<node id="larkin"/>
+<node id="hasty hut"/>
+<node id="bobs"/>
+<node id="vênus"/>
+<node id="eu hesitei"/>
+<node id="elkhart"/>
+<node id="brenda"/>
+<node id="joyland inc"/>
+<node id="dobrei"/>
+<node id="marlo thomas"/>
+<node id="europa"/>
+<node id="dewey michaud"/>
+<node id="examinei"/>
+<node id="wally gordo schmidt"/>
+<node id="camrim"/>
+<node id="exxxtra grande"/>
+<node id="ivy league"/>
+<node id="filadélfia"/>
+<node id="redteam"/>
+<node id="rio acima"/>
+<node id="imagino"/>
+<node id="cleveland"/>
+<node id="west"/>
+<node id="lakefront stadium"/>
+<node id="white sox"/>
+<node id="milo"/>
+<node id="halloween"/>
+<node id="lumberton"/>
+<node id="floyd"/>
+<node id="eddie"/>
+<node id="john ringling boulevard"/>
+<node id="parks"/>
+<node id="jack russell"/>
+<node id="mike?"/>
+<node id="alston’s all-star carnival"/>
+<node id="jacksonville"/>
+<node id="sr. parks"/>
+<node id="espertiiiiin"/>
+<node id="turtle"/>
+<node id="pink floyd"/>
+<node id="tolkien"/>
+<node id="ann"/>
+<node id="jant"/>
+<node id="camp perry"/>
+<node id="jesus"/>
+<node id="sr. joyland"/>
+<node id="sr. cristo"/>
+<node id="cof-cof-cof"/>
+<node id="michael ross"/>
+<node id="ann ross"/>
+<node id="sra. ross"/>
+<node id="jesus!"/>
+<node id="ross"/>
+<node id="senhorita"/>
+<node id="michael everett ross!"/>
+<node id="mamãe"/>
+<node id="dmd"/>
+<node id="duchenne"/>
+<node id="milo latiu"/>
+<node id="mike me"/>
+<node id="vovô ross"/>
+<node id="porta de trás"/>
+<node id="o.k"/>
+<node id="vila wiggle-waggle"/>
+<node id="frodo"/>
+<node id="sam"/>
+<node id="naomi"/>
+<node id="scrabble"/>
+<node id="aham"/>
+<node id="sra. s."/>
+<node id="buddy ross"/>
+<node id="sentido"/>
+<node id="roberts"/>
+<node id="jimmy swaggart"/>
+<node id="atlanta"/>
+<node id="tv"/>
+<node id="tina"/>
+<node id="vovô buddy"/>
+<node id="dev"/>
+<node id="nova jersey"/>
+<node id="buddy"/>
+<node id="durham"/>
+<node id="guimba"/>
+<node id="dev jones"/>
+<node id="acm"/>
+<node id="saltfish"/>
+<node id="garganta dele"/>
+<node id="heaven’s bay community hospital"/>
+<node id="edwin"/>
+<node id="edward"/>
+<node id="fred dean ligue"/>
+<node id="corinne"/>
+<node id="royal american"/>
+<node id="frangalhos"/>
+<node id="jalapeño"/>
+<node id="joy… land"/>
+<node id="porta aberta"/>
+<node id="michael"/>
+<node id="respire fundo"/>
+<node id="vim"/>
+<node id="vou"/>
+<node id="rearrumei"/>
+<node id="jonesinho"/>
+<node id="hanratty’s"/>
+<node id="marque"/>
+<node id="bagel"/>
+<node id="agradeça"/>
+<node id="freddy me"/>
+<node id="michigan grande"/>
+<node id="michigan"/>
+<node id="riviera dos matutos"/>
+<node id="brooks brothers"/>
+<node id="sherlock holmes"/>
+<node id="geórgia"/>
+<node id="jasmine withers"/>
+<node id="pântano okefenokee"/>
+<node id="waycross"/>
+<node id="claudine sharp"/>
+<node id="lawrence da arábia"/>
+<node id="claudine"/>
+<node id="erin me"/>
+<node id="eva longbottom"/>
+<node id="negra"/>
+<node id="rio santee"/>
+<node id="darlene stamnacher"/>
+<node id="maxton"/>
+<node id="garganta cortada"/>
+<node id="blue ridge"/>
+<node id="manly wellman"/>
+<node id="estados unidos de bizarrices"/>
+<node id="journal-herald de waycross"/>
+<node id="wellman"/>
+<node id="deedee mowbray"/>
+<node id="deedee"/>
+<node id="darlene shoemaker"/>
+<node id="robeson county"/>
+<node id="southern star amusements"/>
+<node id="southern star"/>
+<node id="outdoor"/>
+<node id="birmingham"/>
+<node id="espeluncas"/>
+<node id="bonbonnière"/>
+<node id="oi"/>
+<node id="a cruz"/>
+<node id="s."/>
+<node id="phil hendron"/>
+<node id="phil"/>
+<node id="dixie"/>
+<node id="murmurei"/>
+<node id="van heusen"/>
+<node id="ashley"/>
+<node id="fred me"/>
+<node id="surfer joe’s"/>
+<node id="tenente columbo"/>
+<node id="pensilvânia"/>
+<node id="richmond"/>
+<node id="baltimore"/>
+<node id="thomas"/>
+<node id="castelo do príncipe encantado"/>
+<node id="joão"/>
+<node id="vermelho-néon"/>
+<node id="van gogh"/>
+<node id="blitzies"/>
+<node id="tempestade"/>
+<node id="besteira"/>
+<node id="lee riders"/>
+<node id="cartola"/>
+<node id="família ross"/>
+<node id="rosas"/>
+<node id="rosas de verdade"/>
+<node id="mike ofegaram"/>
+<node id="cordinha"/>
+<node id="speedboats"/>
+<node id="espertinho"/>
+<node id="gondola glide"/>
+<node id="acredito"/>
+<node id="rolling stones"/>
+<node id="sr. howie"/>
+<node id="ohio"/>
+<node id="a.22"/>
+<node id="jesus horácio cristo"/>
+<node id="moça bonita"/>
+<node id="agnes"/>
+<node id="gilda"/>
+<node id="mike sorriu"/>
+<node id="mike spitz"/>
+<node id="larry csonka"/>
+<node id="miami dolphins"/>
+<node id="os beatles"/>
+<node id="olhei para trás"/>
+<node id="mike sabe"/>
+<node id="margaret mead"/>
+<node id="homem do terno branco"/>
+<node id="vi mike rir"/>
+<node id="touché"/>
+<node id="coca-cola"/>
+<node id="junior samples"/>
+<node id="linha de jesus"/>
+<node id="savannah"/>
+<node id="chicago"/>
+<node id="lindo"/>
+<node id="banco southern trust"/>
+<node id="casa da sra. shoplaw"/>
+<node id="amei wendy"/>
+<node id="ronco alto da sra. s."/>
+<node id="casa de praia"/>
+<node id="visualizei fred"/>
+<node id="s. eu"/>
+<node id="alegre"/>
+<node id="bom"/>
+<node id="bobby rydell"/>
+<node id="aleijadinho"/>
+<node id="mãe bonita"/>
+<node id="parish"/>
+<node id="areia voava"/>
+<node id="barriga bronzeada"/>
+<node id="farol alto"/>
+<node id="néon vermelho do guindaste"/>
+<node id="velha carolina"/>
+<node id="carla"/>
+<node id="devinho"/>
+<node id="dr. seuss"/>
+<node id="portinha"/>
+<node id="néon vermelho"/>
+<node id="daqui"/>
+<node id="stan"/>
+<node id="van"/>
+<node id="cnn"/>
+<node id="barra"/>
+<node id="caí de joelhos"/>
+<node id="mysterio’s"/>
+<node id="evangelista buddy ross mata"/>
+<node id="new york post"/>
+<node id="inside view"/>
+<node id="san diego"/>
+<node id="leonard hopgood"/>
+<node id="homem santo"/>
+<node id="greenwich village"/>
+<node id="wilmington international"/>
+<node id="buddy ross ministries"/>
+<node id="inc"/>
+<node id="fbi"/>
+<node id="kroger’s"/>
+<node id="annie da casa da sra. shoplaw"/>
+<node id="sr. hardy"/>
+<node id="mike de pestinha aleijado"/>
+<node id="andar de baixo"/>
+<node id="caribe"/>
+<node id="dick cheney"/>
+<node id="clarence clemons"/>
+<node id="steve jobs"/>
+<node id="w. h. auden"/>
+<node id="jennifer"/>
+<node id="pare"/>
+<node id="phoenix"/>
+<node id="amanhã"/>
+<node id="george"/>
+<node id="papai"/>
+<node id="pipa de jesus"/>
+<node id="cristo"/>
+<edge source="shoplaw" target="heaven’s bay"/>
+<edge source="shoplaw" target="joyland"/>
+<edge source="shoplaw" target="charles dickens"/>
+<edge source="shoplaw" target="hollywood"/>
+<edge source="shoplaw" target="charleston"/>
+<edge source="shoplaw" target="erin cook"/>
+<edge source="shoplaw" target="tom kennedy"/>
+<edge source="shoplaw" target="moët &amp; chandon"/>
+<edge source="shoplaw" target="sr. kennedy"/>
+<edge source="shoplaw" target="srta"/>
+<edge source="shoplaw" target="wendy"/>
+<edge source="shoplaw" target="madame"/>
+<edge source="shoplaw" target="lumberton"/>
+<edge source="shoplaw" target="tina ackerley"/>
+<edge source="shoplaw" target="erin"/>
+<edge source="shoplaw" target="frodo"/>
+<edge source="shoplaw" target="sam"/>
+<edge source="shoplaw" target="sra. s."/>
+<edge source="heaven’s bay" target="joyland"/>
+<edge source="heaven’s bay" target="boston"/>
+<edge source="heaven’s bay" target="carolina do norte"/>
+<edge source="heaven’s bay" target="wilmington"/>
+<edge source="heaven’s bay" target="george preston"/>
+<edge source="heaven’s bay" target="ronnie houston"/>
+<edge source="heaven’s bay" target="madame"/>
+<edge source="heaven’s bay" target="erin"/>
+<edge source="heaven’s bay" target="hanratty’s"/>
+<edge source="heaven’s bay" target="ford"/>
+<edge source="heaven’s bay" target="annie"/>
+<edge source="heaven’s bay" target="mike"/>
+<edge source="heaven’s bay" target="casa da sra. shoplaw"/>
+<edge source="heaven’s bay" target="hollywood"/>
+<edge source="heaven’s bay" target="fbi"/>
+<edge source="heaven’s bay" target="fred dean"/>
+<edge source="heaven’s bay" target="brenda rafferty"/>
+<edge source="joyland" target="bradley easterbrook"/>
+<edge source="joyland" target="disney"/>
+<edge source="joyland" target="joyland avenue"/>
+<edge source="joyland" target="madame fortuna"/>
+<edge source="joyland" target="sr. dean"/>
+<edge source="joyland" target="easterbrook"/>
+<edge source="joyland" target="carolina spin"/>
+<edge source="joyland" target="joyland subterrâneo"/>
+<edge source="joyland" target="wendy"/>
+<edge source="joyland" target="erin"/>
+<edge source="joyland" target="pop allen me"/>
+<edge source="joyland" target="brady waterman"/>
+<edge source="joyland" target="unh"/>
+<edge source="joyland" target="maine"/>
+<edge source="joyland" target="jack russell"/>
+<edge source="joyland" target="mike"/>
+<edge source="joyland" target="lane hardy"/>
+<edge source="joyland" target="wendy keegan"/>
+<edge source="joyland" target="durham"/>
+<edge source="joyland" target="new hampshire"/>
+<edge source="joyland" target="hollywood"/>
+<edge source="joyland" target="lane"/>
+<edge source="joyland" target="fred dean"/>
+<edge source="joyland" target="milo"/>
+<edge source="joyland" target="bobby rydell"/>
+<edge source="joyland" target="linda gray"/>
+<edge source="joyland" target="beach row"/>
+<edge source="joyland" target="annie"/>
+<edge source="joyland" target="annie da casa da sra. shoplaw"/>
+<edge source="joyland" target="eddie parks"/>
+<edge source="joyland" target="andar de baixo"/>
+<edge source="joyland" target="carolina do norte"/>
+<edge source="joyland" target="brenda rafferty"/>
+<edge source="carolina do norte" target="boston"/>
+<edge source="carolina do norte" target="wilmington"/>
+<edge source="carolina do norte" target="nova inglaterra"/>
+<edge source="carolina do norte" target="annie"/>
+<edge source="carolina do norte" target="mike"/>
+<edge source="carolina do norte" target="claudine sharp"/>
+<edge source="carolina do norte" target="maxton"/>
+<edge source="carolina do norte" target="erin"/>
+<edge source="carolina do norte" target="nova jersey"/>
+<edge source="carolina do norte" target="florence"/>
+<edge source="carolina do norte" target="linda gray"/>
+<edge source="carolina do norte" target="fbi"/>
+<edge source="carolina do norte" target="fred dean"/>
+<edge source="carolina do norte" target="brenda rafferty"/>
+<edge source="padaria" target="betty"/>
+<edge source="opep" target="richard nixon"/>
+<edge source="opep" target="edward g. robinson"/>
+<edge source="opep" target="noel coward"/>
+<edge source="richard nixon" target="edward g. robinson"/>
+<edge source="richard nixon" target="noel coward"/>
+<edge source="edward g. robinson" target="noel coward"/>
+<edge source="ford" target="wilmington"/>
+<edge source="ford" target="jonesy"/>
+<edge source="wendy keegan" target="wendy jones"/>
+<edge source="wendy keegan" target="wendy"/>
+<edge source="wendy keegan" target="claaaro"/>
+<edge source="wendy keegan" target="professor nako"/>
+<edge source="wendy keegan" target="lane hardy"/>
+<edge source="wendy keegan" target="durham"/>
+<edge source="wendy keegan" target="new hampshire"/>
+<edge source="wendy keegan" target="mike"/>
+<edge source="wendy keegan" target="annie"/>
+<edge source="portsmouth" target="new hampshire"/>
+<edge source="portsmouth" target="maine"/>
+<edge source="new hampshire" target="maine"/>
+<edge source="new hampshire" target="massachusetts"/>
+<edge source="new hampshire" target="lane hardy"/>
+<edge source="new hampshire" target="durham"/>
+<edge source="south berwick" target="maine"/>
+<edge source="maine" target="massachusetts"/>
+<edge source="maine" target="unh"/>
+<edge source="wendy" target="boston"/>
+<edge source="wendy" target="imaginei"/>
+<edge source="wendy" target="perguntei"/>
+<edge source="wendy" target="nadine"/>
+<edge source="wendy" target="nadine keegan"/>
+<edge source="wendy" target="wendy jones"/>
+<edge source="wendy" target="george b. nako"/>
+<edge source="wendy" target="timothy jones"/>
+<edge source="wendy" target="pippin"/>
+<edge source="wendy" target="william blake"/>
+<edge source="wendy" target="joyland avenue"/>
+<edge source="wendy" target="annie ross"/>
+<edge source="boston" target="wilmington"/>
+<edge source="boston" target="filene’s"/>
+<edge source="carolina living" target="batatas caramba"/>
+<edge source="wilmington" target="george preston"/>
+<edge source="wilmington" target="ronnie houston"/>
+<edge source="wilmington" target="erin cook"/>
+<edge source="wilmington" target="erin"/>
+<edge source="fred dean" target="brenda rafferty"/>
+<edge source="fred dean" target="sr. easterbrook"/>
+<edge source="fred dean" target="nova inglaterra"/>
+<edge source="fred dean" target="halloween"/>
+<edge source="fred dean" target="mysterio’s mirror mansion"/>
+<edge source="fred dean" target="fred"/>
+<edge source="fred dean" target="lane"/>
+<edge source="fred dean" target="van gogh"/>
+<edge source="fred dean" target="mike"/>
+<edge source="fred dean" target="lane hardy"/>
+<edge source="carolina spin" target="lane hardy"/>
+<edge source="carolina spin" target="desemaranhei"/>
+<edge source="carolina spin" target="madame fortuna"/>
+<edge source="carolina spin" target="castelo do príncipe encantado"/>
+<edge source="carolina spin" target="joão"/>
+<edge source="carolina spin" target="vermelho-néon"/>
+<edge source="carolina spin" target="joyland subterrâneo"/>
+<edge source="carolina spin" target="annie"/>
+<edge source="carolina spin" target="mike"/>
+<edge source="carolina spin" target="carla"/>
+<edge source="carolina spin" target="lane"/>
+<edge source="carolina spin" target="mike de pestinha aleijado"/>
+<edge source="lane" target="sr. easterbrook"/>
+<edge source="lane" target="madame fortuna"/>
+<edge source="lane" target="bagel"/>
+<edge source="lane" target="fred"/>
+<edge source="lane" target="mike"/>
+<edge source="lane" target="lane"/>
+<edge source="lane" target="velha carolina"/>
+<edge source="lane" target="mike de pestinha aleijado"/>
+<edge source="disney" target="joyland avenue"/>
+<edge source="disney" target="knott’s berry farm"/>
+<edge source="bradley easterbrook" target="joyland avenue"/>
+<edge source="joyland avenue" target="pop allen me"/>
+<edge source="joyland avenue" target="don’t ya jes’ love it"/>
+<edge source="joyland avenue" target="daddy dewdrop"/>
+<edge source="joyland avenue" target="sr. easterbrook"/>
+<edge source="joyland avenue" target="mike"/>
+<edge source="freddy dean" target="imagino"/>
+<edge source="fred" target="sr. easterbrook"/>
+<edge source="fred" target="mike"/>
+<edge source="fred" target="annie"/>
+<edge source="fred" target="família ross"/>
+<edge source="fred" target="cartola"/>
+<edge source="lane hardy" target="agradeci"/>
+<edge source="lane hardy" target="eddie parks"/>
+<edge source="lane hardy" target="durham"/>
+<edge source="lane hardy" target="mike"/>
+<edge source="lane hardy" target="annie"/>
+<edge source="lane hardy" target="san diego"/>
+<edge source="lane hardy" target="leonard hopgood"/>
+<edge source="jonesy" target="pinto"/>
+<edge source="jonesy" target="moon rocket"/>
+<edge source="jonesy" target="kennedy"/>
+<edge source="jonesy" target="brad"/>
+<edge source="jonesy" target="eddie parks"/>
+<edge source="jonesy" target="jesus"/>
+<edge source="johnny otis" target="big joe turner"/>
+<edge source="brenda rafferty" target="hollywood"/>
+<edge source="brenda rafferty" target="sr. dean"/>
+<edge source="hollywood" target="gray"/>
+<edge source="hollywood" target="erin"/>
+<edge source="hollywood" target="universidade bard"/>
+<edge source="hollywood" target="tio sam"/>
+<edge source="hollywood" target="campbell’s"/>
+<edge source="nova inglaterra" target="halloween"/>
+<edge source="madame fortuna" target="rozzie gold"/>
+<edge source="madame fortuna" target="thomas patrick kennedy"/>
+<edge source="madame fortuna" target="mike"/>
+<edge source="brooklyn" target="madame"/>
+<edge source="sr. dean" target="erin"/>
+<edge source="sr. jones" target="devin"/>
+<edge source="sr. jones" target="mike"/>
+<edge source="oklahoma" target="arkansas"/>
+<edge source="sr. easterbrook" target="estados unidos"/>
+<edge source="sr. easterbrook" target="john ringling boulevard"/>
+<edge source="rozzie gold" target="mike ross"/>
+<edge source="rozzie gold" target="pop allen"/>
+<edge source="main street" target="praia"/>
+<edge source="bandejão" target="unh"/>
+<edge source="ackerley" target="joyce carol oates"/>
+<edge source="beach row" target="ross"/>
+<edge source="beach row" target="mike"/>
+<edge source="beach row" target="banco southern trust"/>
+<edge source="beach row" target="beach row"/>
+<edge source="devin" target="mike"/>
+<edge source="nova york" target="erin"/>
+<edge source="nova york" target="nova jersey"/>
+<edge source="linda gray" target="florence"/>
+<edge source="linda gray" target="annie oakley"/>
+<edge source="linda gray" target="examinei"/>
+<edge source="linda gray" target="são tomé"/>
+<edge source="linda gray" target="kennedy"/>
+<edge source="linda gray" target="erin"/>
+<edge source="linda gray" target="claudine sharp"/>
+<edge source="linda gray" target="eva longbottom"/>
+<edge source="linda gray" target="mike"/>
+<edge source="florence" target="carolina do sul"/>
+<edge source="florence" target="florence"/>
+<edge source="annie oakley" target="gary allen"/>
+<edge source="annie oakley" target="annie"/>
+<edge source="gray" target="deedee mowbray"/>
+<edge source="gray" target="claudine sharp"/>
+<edge source="gray" target="darlene stamnacher"/>
+<edge source="linda" target="larkin"/>
+<edge source="raleigh" target="sand dollar"/>
+<edge source="georgia" target="carolinas"/>
+<edge source="jimi hendrix" target="the doors"/>
+<edge source="the doors" target="pink floyd"/>
+<edge source="perguntei" target="nadine"/>
+<edge source="beatles" target="john lennon"/>
+<edge source="george b. nako" target="noel"/>
+<edge source="universidade de new hampshire" target="hamilton smith"/>
+<edge source="hamilton smith" target="escada do porão"/>
+<edge source="elizabeth taylor" target="robert zimmerman"/>
+<edge source="elizabeth taylor" target="lyndon beans johnson"/>
+<edge source="robert zimmerman" target="lyndon beans johnson"/>
+<edge source="mike" target="annie ross"/>
+<edge source="mike" target="annie"/>
+<edge source="mike" target="jant"/>
+<edge source="mike" target="milo"/>
+<edge source="mike" target="sr. joyland"/>
+<edge source="mike" target="jesus"/>
+<edge source="mike" target="milo latiu"/>
+<edge source="mike" target="erin"/>
+<edge source="mike" target="cordinha"/>
+<edge source="mike" target="gondola glide"/>
+<edge source="mike" target="joyland subterrâneo"/>
+<edge source="mike" target="chicago"/>
+<edge source="mike" target="casa de praia"/>
+<edge source="mike" target="mike"/>
+<edge source="mike" target="kroger’s"/>
+<edge source="mike" target="eddie parks"/>
+<edge source="mike" target="andar de baixo"/>
+<edge source="mike" target="cristo"/>
+<edge source="tina ackerley" target="lumberton"/>
+<edge source="tina ackerley" target="erin"/>
+<edge source="tina ackerley" target="frodo"/>
+<edge source="tina ackerley" target="sam"/>
+<edge source="tina ackerley" target="sra. s."/>
+<edge source="erin cook" target="tom kennedy"/>
+<edge source="erin cook" target="nova jersey"/>
+<edge source="erin cook" target="rutgers"/>
+<edge source="tom kennedy" target="camarim"/>
+<edge source="tom kennedy" target="erin"/>
+<edge source="erin" target="universidade bard"/>
+<edge source="erin" target="erin"/>
+<edge source="erin" target="kennedy"/>
+<edge source="erin" target="campbell’s"/>
+<edge source="erin" target="família stansfield"/>
+<edge source="erin" target="elvis"/>
+<edge source="erin" target="dobie"/>
+<edge source="erin" target="lumberton"/>
+<edge source="erin" target="sra. s."/>
+<edge source="erin" target="annie"/>
+<edge source="erin" target="eddie parks"/>
+<edge source="erin" target="sherlock holmes"/>
+<edge source="erin" target="southern star amusements"/>
+<edge source="erin" target="surfer joe’s"/>
+<edge source="erin" target="nova jersey"/>
+<edge source="atlântico" target="ronnie"/>
+<edge source="kennedy" target="são tomé?"/>
+<edge source="moët &amp; chandon" target="sr. kennedy"/>
+<edge source="annie" target="mike ross"/>
+<edge source="annie" target="sra. s."/>
+<edge source="annie" target="buddy ross"/>
+<edge source="annie" target="lee riders"/>
+<edge source="annie" target="mike ofegaram"/>
+<edge source="annie" target="milo"/>
+<edge source="annie" target="gondola glide"/>
+<edge source="annie" target="joyland subterrâneo"/>
+<edge source="annie" target="a.22"/>
+<edge source="annie" target="casa de praia"/>
+<edge source="annie" target="annie"/>
+<edge source="annie" target="camp perry"/>
+<edge source="annie" target="fbi"/>
+<edge source="annie" target="chicago"/>
+<edge source="colóquio" target="gary"/>
+<edge source="gary" target="flórida"/>
+<edge source="gary" target="alston’s all-star carnival"/>
+<edge source="gary" target="jacksonville"/>
+<edge source="gary" target="eddie parks"/>
+<edge source="ronnie houston" target="flórida"/>
+<edge source="ronnie houston" target="george preston"/>
+<edge source="flórida" target="alston’s all-star carnival"/>
+<edge source="flórida" target="jacksonville"/>
+<edge source="flórida" target="eddie parks"/>
+<edge source="flórida" target="tempestade"/>
+<edge source="flórida" target="geórgia"/>
+<edge source="pinto" target="moon rocket"/>
+<edge source="who" target="zep"/>
+<edge source="who" target="stones"/>
+<edge source="zep" target="stones"/>
+<edge source="dottie lassen" target="minha sorte"/>
+<edge source="dottie lassen" target="jesus"/>
+<edge source="camarim" target="ross"/>
+<edge source="goldfinger" target="goldfinger"/>
+<edge source="howie" target="sr. devin jones"/>
+<edge source="wenny" target="rennie"/>
+<edge source="jim morrison" target="ray manzarek"/>
+<edge source="jim morrison" target="floyd"/>
+<edge source="vendy" target="sse massturba"/>
+<edge source="don’t ya jes’ love it" target="daddy dewdrop"/>
+<edge source="henry heimlich" target="heimlich"/>
+<edge source="hallie stansfield" target="eddie parks"/>
+<edge source="são tomé" target="examinei"/>
+<edge source="rutgers" target="nova jersey"/>
+<edge source="john f. kennedy sorridente" target="elvis presley"/>
+<edge source="eddie parks" target="alston’s all-star carnival"/>
+<edge source="eddie parks" target="jacksonville"/>
+<edge source="eddie parks" target="heaven’s bay community hospital"/>
+<edge source="eddie parks" target="sherlock holmes"/>
+<edge source="eddie parks" target="mãe bonita"/>
+<edge source="eddie parks" target="andar de baixo"/>
+<edge source="brenda" target="joyland inc"/>
+<edge source="brenda" target="parks"/>
+<edge source="europa" target="dewey michaud"/>
+<edge source="redteam" target="redteam"/>
+<edge source="redteam" target="rio acima"/>
+<edge source="rio acima" target="rio acima"/>
+<edge source="west" target="lakefront stadium"/>
+<edge source="milo" target="jant"/>
+<edge source="milo" target="gondola glide"/>
+<edge source="milo" target="jesus"/>
+<edge source="alston’s all-star carnival" target="jacksonville"/>
+<edge source="camp perry" target="ohio"/>
+<edge source="mamãe" target="dmd"/>
+<edge source="frodo" target="sam"/>
+<edge source="sra. s." target="besteira"/>
+<edge source="buddy ross" target="homem do terno branco"/>
+<edge source="roberts" target="jimmy swaggart"/>
+<edge source="roberts" target="atlanta"/>
+<edge source="jimmy swaggart" target="atlanta"/>
+<edge source="acm" target="saltfish"/>
+<edge source="edwin" target="edward"/>
+<edge source="corinne" target="royal american"/>
+<edge source="jonesinho" target="jonesinho"/>
+<edge source="freddy me" target="michigan grande"/>
+<edge source="geórgia" target="tempestade"/>
+<edge source="waycross" target="wellman"/>
+<edge source="claudine sharp" target="deedee mowbray"/>
+<edge source="claudine sharp" target="darlene stamnacher"/>
+<edge source="claudine" target="deedee"/>
+<edge source="claudine" target="darlene stamnacher"/>
+<edge source="claudine" target="bonbonnière"/>
+<edge source="claudine" target="oi"/>
+<edge source="darlene stamnacher" target="deedee"/>
+<edge source="darlene stamnacher" target="deedee mowbray"/>
+<edge source="wellman" target="southern star amusements"/>
+<edge source="wellman" target="southern star"/>
+<edge source="southern star" target="outdoor"/>
+<edge source="bonbonnière" target="oi"/>
+<edge source="richmond" target="baltimore"/>
+<edge source="castelo do príncipe encantado" target="joão"/>
+<edge source="castelo do príncipe encantado" target="vermelho-néon"/>
+<edge source="joão" target="vermelho-néon"/>
+<edge source="mike spitz" target="larry csonka"/>
+<edge source="mike spitz" target="miami dolphins"/>
+<edge source="larry csonka" target="miami dolphins"/>
+<edge source="chicago" target="buddy ross ministries"/>
+<edge source="chicago" target="inc"/>
+<edge source="san diego" target="leonard hopgood"/>
+<edge source="homem santo" target="greenwich village"/>
+<edge source="buddy ross ministries" target="inc"/>
+</graph></graphml>

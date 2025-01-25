@@ -1,0 +1,439 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="peru">
+  <data key="d0">LOC</data>
+</node>
+<node id="burkett">
+  <data key="d0">LOC</data>
+</node>
+<node id="universidade de nova york">
+  <data key="d0">LOC</data>
+</node>
+<node id="thia">
+  <data key="d0">LOC</data>
+</node>
+<node id="salão de beleza">
+  <data key="d0">LOC</data>
+</node>
+<node id="central park">
+  <data key="d0">LOC</data>
+</node>
+<node id="speonk">
+  <data key="d0">LOC</data>
+</node>
+<node id="lindo">
+  <data key="d0">LOC</data>
+</node>
+<node id="bonito">
+  <data key="d0">LOC</data>
+</node>
+<node id="mesinha redonda">
+  <data key="d0">LOC</data>
+</node>
+<node id="são longuinho">
+  <data key="d0">LOC</data>
+</node>
+<node id="torchwood">
+  <data key="d0">LOC</data>
+</node>
+<node id="bronx">
+  <data key="d0">LOC</data>
+</node>
+<node id="central park west">
+  <data key="d0">LOC</data>
+</node>
+<node id="na-nariz">
+  <data key="d0">LOC</data>
+</node>
+<node id="nova york">
+  <data key="d0">LOC</data>
+</node>
+<node id="broadway">
+  <data key="d0">LOC</data>
+</node>
+<node id="mackenzie">
+  <data key="d0">LOC</data>
+</node>
+<node id="park avenue">
+  <data key="d0">LOC</data>
+</node>
+<node id="bayonne">
+  <data key="d0">LOC</data>
+</node>
+<node id="pijama">
+  <data key="d0">LOC</data>
+</node>
+<node id="nossa casa nova">
+  <data key="d0">LOC</data>
+</node>
+<node id="carolina do norte">
+  <data key="d0">LOC</data>
+</node>
+<node id="joia da nossa coroa">
+  <data key="d0">LOC</data>
+</node>
+<node id="obama">
+  <data key="d0">LOC</data>
+</node>
+<node id="pântano da morte de roanoke">
+  <data key="d0">LOC</data>
+</node>
+<node id="roanoke desaparecerem">
+  <data key="d0">LOC</data>
+</node>
+<node id="estado de">
+  <data key="d0">LOC</data>
+</node>
+<node id="bom">
+  <data key="d0">LOC</data>
+</node>
+<node id="nossa sala">
+  <data key="d0">LOC</data>
+</node>
+<node id="banco de trás">
+  <data key="d0">LOC</data>
+</node>
+<node id="brook parkway">
+  <data key="d0">LOC</data>
+</node>
+<node id="corda">
+  <data key="d0">LOC</data>
+</node>
+<node id="ny1">
+  <data key="d0">LOC</data>
+</node>
+<node id="manhattan">
+  <data key="d0">LOC</data>
+</node>
+<node id="grécia">
+  <data key="d0">LOC</data>
+</node>
+<node id="liz">
+  <data key="d0">LOC</data>
+</node>
+<node id="condado de westchester">
+  <data key="d0">LOC</data>
+</node>
+<node id="ti">
+  <data key="d0">LOC</data>
+</node>
+<node id="gravadorzinho">
+  <data key="d0">LOC</data>
+</node>
+<node id="dã">
+  <data key="d0">LOC</data>
+</node>
+<node id="nyu">
+  <data key="d0">LOC</data>
+</node>
+<node id="mona">
+  <data key="d0">LOC</data>
+</node>
+<node id="estados unidos">
+  <data key="d0">LOC</data>
+</node>
+<node id="guimbas de cigarro">
+  <data key="d0">LOC</data>
+</node>
+<node id="vassar college">
+  <data key="d0">LOC</data>
+</node>
+<node id="avenida webster">
+  <data key="d0">LOC</data>
+</node>
+<node id="lickety split">
+  <data key="d0">LOC</data>
+</node>
+<node id="murmurei">
+  <data key="d0">LOC</data>
+</node>
+<node id="palmeiras">
+  <data key="d0">LOC</data>
+</node>
+<node id="long island">
+  <data key="d0">LOC</data>
+</node>
+<node id="cabana do tio harry">
+  <data key="d0">LOC</data>
+</node>
+<node id="condado de suffolk">
+  <data key="d0">LOC</data>
+</node>
+<node id="nova jersey">
+  <data key="d0">LOC</data>
+</node>
+<node id="jersey city">
+  <data key="d0">LOC</data>
+</node>
+<node id="fort lee">
+  <data key="d0">LOC</data>
+</node>
+<node id="lexington">
+  <data key="d0">LOC</data>
+</node>
+<node id="canadá">
+  <data key="d0">LOC</data>
+</node>
+<node id="therriault">
+  <data key="d0">LOC</data>
+</node>
+<node id="jamaica">
+  <data key="d0">LOC</data>
+</node>
+<node id="hospital city of angels">
+  <data key="d0">LOC</data>
+</node>
+<node id="barbara">
+  <data key="d0">LOC</data>
+</node>
+<node id="ponte de queensboro">
+  <data key="d0">LOC</data>
+</node>
+<node id="segura">
+  <data key="d0">LOC</data>
+</node>
+<node id="lua">
+  <data key="d0">LOC</data>
+</node>
+<node id="lavanderia">
+  <data key="d0">LOC</data>
+</node>
+<node id="marte">
+  <data key="d0">LOC</data>
+</node>
+<node id="dutton">
+  <data key="d0">LOC</data>
+</node>
+<node id="westport">
+  <data key="d0">LOC</data>
+</node>
+<node id="barb">
+  <data key="d0">LOC</data>
+</node>
+<node id="brooklyn">
+  <data key="d0">LOC</data>
+</node>
+<node id="salão comunitário">
+  <data key="d0">LOC</data>
+</node>
+<node id="burkett sorriu">
+  <data key="d0">LOC</data>
+</node>
+<node id="stephens">
+  <data key="d0">LOC</data>
+</node>
+<node id="tudinho">
+  <data key="d0">LOC</data>
+</node>
+<node id="debbie">
+  <data key="d0">LOC</data>
+</node>
+<node id="diana">
+  <data key="d0">LOC</data>
+</node>
+<node id="palmas das minhas mãos">
+  <data key="d0">LOC</data>
+</node>
+<node id="grover park">
+  <data key="d0">LOC</data>
+</node>
+<node id="egito">
+  <data key="d0">LOC</data>
+</node>
+<node id="prof">
+  <data key="d0">LOC</data>
+</node>
+<node id="valeria">
+  <data key="d0">LOC</data>
+</node>
+<node id="park quebrado">
+  <data key="d0">LOC</data>
+</node>
+<node id="travessa">
+  <data key="d0">LOC</data>
+</node>
+<node id="pico de luz">
+  <data key="d0">LOC</data>
+</node>
+<node id="flórida">
+  <data key="d0">LOC</data>
+</node>
+<node id="memorial hospital">
+  <data key="d0">LOC</data>
+</node>
+<node id="bentley’s boutique hotel">
+  <data key="d0">LOC</data>
+</node>
+<node id="caltech">
+  <data key="d0">LOC</data>
+</node>
+<node id="kips bay court">
+  <data key="d0">LOC</data>
+</node>
+<node id="lago swan">
+  <data key="d0">LOC</data>
+</node>
+<node id="casa dos mustangs">
+  <data key="d0">LOC</data>
+</node>
+<node id="chapada">
+  <data key="d0">LOC</data>
+</node>
+<node id="claro">
+  <data key="d0">LOC</data>
+</node>
+<node id="lago roanoke">
+  <data key="d0">LOC</data>
+</node>
+<node id="new paltz">
+  <data key="d0">LOC</data>
+</node>
+<node id="oxycontin">
+  <data key="d0">LOC</data>
+</node>
+<node id="buzinaram para nós">
+  <data key="d0">LOC</data>
+</node>
+<node id="knopfler">
+  <data key="d0">LOC</data>
+</node>
+<node id="new york thruway">
+  <data key="d0">LOC</data>
+</node>
+<node id="bess">
+  <data key="d0">LOC</data>
+</node>
+<node id="premonição">
+  <data key="d0">LOC</data>
+</node>
+<node id="midtown">
+  <data key="d0">LOC</data>
+</node>
+<node id="renfield">
+  <data key="d0">LOC</data>
+</node>
+<node id="rio wallkill">
+  <data key="d0">LOC</data>
+</node>
+<node id="baltimore">
+  <data key="d0">LOC</data>
+</node>
+<node id="nova inglaterra">
+  <data key="d0">LOC</data>
+</node>
+<node id="china">
+  <data key="d0">LOC</data>
+</node>
+<node id="marsden">
+  <data key="d0">LOC</data>
+</node>
+<node id="wallkill">
+  <data key="d0">LOC</data>
+</node>
+<node id="jersey">
+  <data key="d0">LOC</data>
+</node>
+<node id="teddy">
+  <data key="d0">LOC</data>
+</node>
+<node id="fechado">
+  <data key="d0">LOC</data>
+</node>
+<node id="hollywood hills">
+  <data key="d0">LOC</data>
+</node>
+<node id="boxster">
+  <data key="d0">LOC</data>
+</node>
+<node id="ándale">
+  <data key="d0">LOC</data>
+</node>
+<node id="pedra verde">
+  <data key="d0">LOC</data>
+</node>
+<node id="abre">
+  <data key="d0">LOC</data>
+</node>
+<node id="rádio pandora">
+  <data key="d0">LOC</data>
+</node>
+<node id="muy stupido">
+  <data key="d0">LOC</data>
+</node>
+<node id="nova york te">
+  <data key="d0">LOC</data>
+</node>
+<node id="marinox">
+  <data key="d0">LOC</data>
+</node>
+<node id="inderal">
+  <data key="d0">LOC</data>
+</node>
+<node id="andar de cima">
+  <data key="d0">LOC</data>
+</node>
+<node id="bahamas">
+  <data key="d0">LOC</data>
+</node>
+<node id="bimini">
+  <data key="d0">LOC</data>
+</node>
+<node id="scrooge">
+  <data key="d0">LOC</data>
+</node>
+<node id="estamos unidos">
+  <data key="d0">LOC</data>
+</node>
+<node id="você">
+  <data key="d0">LOC</data>
+</node>
+<node id="pensilvânia">
+  <data key="d0">LOC</data>
+</node>
+<node id="indiana">
+  <data key="d0">LOC</data>
+</node>
+<node id="montana">
+  <data key="d0">LOC</data>
+</node>
+<node id="peru verde">
+  <data key="d0">LOC</data>
+</node>
+<node id="arcola">
+  <data key="d0">LOC</data>
+</node>
+<node id="illinois">
+  <data key="d0">LOC</data>
+</node>
+<node id="lester">
+  <data key="d0">LOC</data>
+</node>
+<edge source="peru" target="lindo"/>
+<edge source="burkett" target="bonito"/>
+<edge source="central park" target="bronx"/>
+<edge source="central park" target="central park"/>
+<edge source="central park" target="lago swan"/>
+<edge source="speonk" target="long island"/>
+<edge source="speonk" target="cabana do tio harry"/>
+<edge source="nova york" target="jamaica"/>
+<edge source="nova york" target="baltimore"/>
+<edge source="nova york" target="nova inglaterra"/>
+<edge source="nova york" target="renfield"/>
+<edge source="mackenzie" target="mackenzie"/>
+<edge source="obama" target="estados unidos"/>
+<edge source="bom" target="dã"/>
+<edge source="long island" target="cabana do tio harry"/>
+<edge source="nova jersey" target="jersey city"/>
+<edge source="nova jersey" target="fort lee"/>
+<edge source="jersey city" target="fort lee"/>
+<edge source="therriault" target="westport"/>
+<edge source="therriault" target="therriault"/>
+<edge source="debbie" target="diana"/>
+<edge source="renfield" target="nova inglaterra"/>
+<edge source="ándale" target="ándale"/>
+<edge source="marinox" target="inderal"/>
+<edge source="pensilvânia" target="indiana"/>
+<edge source="pensilvânia" target="montana"/>
+<edge source="indiana" target="montana"/>
+<edge source="arcola" target="illinois"/>
+</graph></graphml>
