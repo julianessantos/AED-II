@@ -169,19 +169,19 @@ plt.show()
 ```
 Com o auxílio do Gephi, foi possível fazer a formatação do layout do grafo gerado. O primeiro grafo apresentado é a rede do livro Joyland. Nessa rede, conseguimos visualizar uma maior conexão entre as entidades presentes no livro, mas também vemos a presença de alguns nós soltos. No entanto, como o livro se passa em poucos espaços, a interação entre as entidades torna-se maior.
 
-<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%203/Imagens/Rede%20NetworkJoyland.png" alt="Rede do livro Joyland." width="600" height="800"/>
+<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%203/Imagens/Rede%20NetworkJoyland.png" alt="Rede do livro Joyland." width="600" height="600"/>
 
 Enquanto isso, o livro Depois apresenta um grafo mais complexo, com mais nós com menos de duas conexões e um grau menor de entidades conectadas entre si. Isso reflete uma história com mais personagens e cenários, resultando em uma rede mais dispersa e com interações mais distribuídas.
 
-<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%203/Imagens/Rede%20NetworkDepois.png" alt="Rede do livro Depois." width="600" height="800"/>
+<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%203/Imagens/Rede%20NetworkDepois.png" alt="Rede do livro Depois." width="600" height="600"/>
 
 Logo após, vemos a rede da entidade “localização”, onde é possível observar que, no primeiro livro, por se passar no parque de diversão Joyland, a localização com mais conexões é, consequentemente, Joyland. Analisando as métricas, rodando a função calcular_metrica() citada anteriormente e presente no código disponível, vemos que o nó Joyland possui a maior Degree Centrality da rede, indicando que é o local mais conectado e central dentro da trama, com um número elevado de interações com outras entidades.
 
-<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%203/Imagens/RedeLOCJoyland.png" alt="Rede da entidade “localização” para o primeiro livro." width="600" height="800"/>
+<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%203/Imagens/RedeLOCJoyland.png" alt="Rede da entidade “localização” para o primeiro livro." width="600" height="600"/>
 
 Em contrapartida, a rede do segundo livro apresenta uma maior variedade de comunidades, demonstrando um número mais elevado de locais mencionados ao longo do enredo. Além disso, ao analisar suas métricas, é possível observar valores mais próximos entre si, o que reflete a diversificação dos locais e a descentralização em relação a um único ambiente predominante.
 
-<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%203/Imagens/RedeLOCDepois.png" alt="Rede da entidade “localização” para o segundo livro." width="600" height="800"/>
+<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%203/Imagens/RedeLOCDepois.png" alt="Rede da entidade “localização” para o segundo livro." width="600" height="600"/>
 
 Comentando sobre a rede de pessoas, a próxima rede destaca esses dados. Na primeira trama, o personagem Mike se destaca como um dos principais, com mais conexões, o que reflete sua importância narrativa e suas interações frequentes com outros personagens ao longo da história. Isso é visível no grafo, onde ele aparece como um nó central, com um alto grau de conectividade.
 
@@ -189,18 +189,19 @@ Por outro lado, Dev, apesar de ser um personagem relevante na história, não oc
 
 Essa descentralização do papel de Dev pode ser um reflexo direto da maneira como a narrativa foi estruturada, priorizando Mike como um elemento chave de conexão e desenvolvimento da história.
 
-<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%203/Imagens/Rede%20Ego2Joyland.png" alt="Rede da entidade “Pessoas” para o primeiro livro." width="600" height="800"/>
+<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%203/Imagens/Rede%20Ego2Joyland.png" alt="Rede da entidade “Pessoas” para o primeiro livro." width="600" height="600"/>
 
 Aqui está um grafo baseado na rede ego do personagem Mike.
 
-<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%203/Imagens/Rede%20EgoJoyland.png" alt="Rede ego para o personagem Mike." width="600" height="800"/>
+<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%203/Imagens/Rede%20EgoJoyland.png" alt="Rede ego para o personagem Mike." width="600" height="600"/>
 
 Para a segunda história, conseguimos observar como Liz, uma das personagens principais, também se destaca mais do que o personagem central, Jamie. Essa análise pode ser explicada pelo fato de Liz estar envolvida em diversas interações ao longo da trama, tanto com Jamie quanto com outros personagens, como a mãe dele, Tia, e outras figuras centrais do enredo.
 
-<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%203/Imagens/Rede%20Ego2Depois.png" alt="Rede da entidade “pessoas” para o segundo livro." width="600" height="800"/>
+<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%203/Imagens/Rede%20Ego2Depois.png" alt="Rede da entidade “pessoas” para o segundo livro." width="600" height="600"/>
 
 Aqui está o grafo para o ego principal, Liz.
-<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%203/Imagens/Rede%20EgoDepois.png" alt="Rede ego para a personagem Liz." width="600" height="800"/>
+
+<img src="https://github.com/julianessantos/AED-II/blob/main/Unidade%203/Imagens/Rede%20EgoDepois.png" alt="Rede ego para a personagem Liz." width="600" height="600"/>
 
 ## Insights
 A análise revelou algumas diferenças importantes entre os dois livros de King, especialmente no que diz respeito à estrutura das interações entre personagens e o papel que os locais e eventos desempenham na trama.
@@ -208,6 +209,7 @@ A análise revelou algumas diferenças importantes entre os dois livros de King,
 - Densidade: Joyland apresenta um grafo mais compacto, com interações limitadas e uma narrativa mais focada, enquanto Depois tem um grafo mais complexo, com mais nós com menos de duas conexões refletindo uma história com mais personagens e cenários.
 - Conexões: As interações em Joyland são mais diretas e centralizadas no parque, enquanto Depois tem uma trama mais dispersa, com personagens interagindo em diferentes locais e eventos.
 - Centralidade: Em Joyland, a centralidade foi dominada pelo personagem Mike, enquanto em Depois, a centralidade é mais distribuída entre vários personagens, especialmente aqueles envolvidos com os eventos sobrenaturais.
+
 ## Links Relevantes
 - Grafo Interativo: Acesse os grafos gerados para [Joyland](https://julianessantos.github.io/NetworkSites/RedeJoyland/RedeNetworkJoyland/) e [Depois](https://julianessantos.github.io/NetworkSites/RedeDepois/networkDepois/) e explore as interações entre os personagens.
 - [Podcast Explicativo](https://notebooklm.google.com/notebook/5be3c582-cad2-48f0-9486-3e2081f6fbca/audio): Um podcast que explora os principais conceitos e abordagens utilizados nesta análise de grafos.
