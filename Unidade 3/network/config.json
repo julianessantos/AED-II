@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Juliane Santos"
+  },
+  "text": {
+    "more": "O grafo de Depois de Stephen King mostra personagens e locais interligados, destacando relações importantes no enredo. Ele evidencia os protagonistas e os eventos sobrenaturais que guiam a história.",
+    "intro": "O grafo de Depois de Stephen King mostra personagens e locais interligados, destacando relações importantes no enredo. Ele evidencia os protagonistas e os eventos sobrenaturais que guiam a história.",
+    "title": "Depois Network"
+  },
+  "legend": {
+    "edgeLabel": "Representam conexões entre as entidades com base na coocorrência ou interações no texto.",
+    "colorLabel": "Comunidades",
+    "nodeLabel": "Representam personagens, locais, ou outros elementos importantes do texto."
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "Label"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
