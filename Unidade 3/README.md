@@ -211,5 +211,6 @@ A análise revelou algumas diferenças importantes entre os dois livros de King,
 - Centralidade: Em Joyland, a centralidade foi dominada pelo personagem Mike, enquanto em Depois, a centralidade é mais distribuída entre vários personagens, especialmente aqueles envolvidos com os eventos sobrenaturais.
 
 ## Links Relevantes
+- [Medium](https://medium.com/@julianessantos/an%C3%A1lise-de-grafos-em-livros-do-stephen-king-joyland-e-depois-13298037dcd3): Artigo
 - Grafo Interativo: Acesse os grafos gerados para [Joyland](https://julianessantos.github.io/NetworkSites/RedeJoyland/RedeNetworkJoyland/) e [Depois](https://julianessantos.github.io/NetworkSites/RedeDepois/networkDepois/) e explore as interações entre os personagens.
 - [Podcast Explicativo](https://notebooklm.google.com/notebook/5be3c582-cad2-48f0-9486-3e2081f6fbca/audio): Um podcast que explora os principais conceitos e abordagens utilizados nesta análise de grafos.
